@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<!-- Our site title and description -->
+	<title>Geolocation Data Analysis | Qing Ke</title>
+	<meta name="description" content="Homepage for Qing Ke" />
+	<meta name="keywords" content="				" />
+	<meta name="author" content="Qing Ke" />
+
+	<!-- Output DocPad produced meta elements -->
+	<meta name="generator" content="DocPad v6.78.1" />
+
+	<!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width" />
+
+	<!-- Shims: IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Styles -->
+	<style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/styles/twitter-bootstrap.css" /><link  rel="stylesheet" href="/styles/style.css" />
+</head>
+<body>
+	<!-- Menu -->
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">Qing Ke</a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					
+						<li
+							typeof="sioc:Page"
+							about="/pages/notebooks"
+							class=""
+						>
+							<a href="/pages/notebooks" property="dc:title">
+								Notebooks
+							</a>
+						</li>
+					
+				</ul>
+			</div><!--/.navbar-collapse -->
+		</div>
+	</div>
+
+	<!-- Content -->
+	<div class="container">
+		<!-- Content -->
+		<section id="content" class="content">
+			<center><h3>Geolocation</h3></center>
+
+<hr>
+
+<ul>
+	<li>L. Rossi, M. J. Williams, C. Stich, and M. Musolesi. <a href="http://arxiv.org/abs/1503.06499">Privacy and the City: User Identification and Location Semantics in Location-Based Social Networks.</a> In proc. ICWSM 2015.</li>
+	<li>D. Hristova, P. Panzarasa, and C. Mascolo. <a href="http://www.cl.cam.ac.uk/~dh475/papers/icwsm15.pdf">Multilayer Brokerage in Geo-Social Networks.</a> In Proc. ICWSM 2015.</li>
+
+	<li>T. Shelton, A. Poorthuis, and M. Zook. <a href="http://www.sciencedirect.com/science/article/pii/S0169204615000523#">Social media and the city: Rethinking urban socio-spatial inequality using user-generated geographic information.</a> Landscape and Urban Planning 2015.</li>
+	<ul>
+		<li><a href="http://www.citylab.com/housing/2015/03/why-most-twitter-maps-cant-be-trusted/388586/">Why Most Twitter Maps Can't Be Trusted.</a></li>
+	</ul>
+
+	<li>M. Kafsi, H. Cramer, B. Thomee, and D. A. Shamma. <a href="http://arxiv.org/abs/1503.03524">Describing and Understanding Neighborhood Characteristics through Online Social Media.</a> In Proc. WWW '15.</li>
+    <li>M. Lichman and P. Smyth. <a href="http://dl.acm.org/citation.cfm?id=2623681">Modeling human location data with mixtures of kernel densities.</a> In Proc. KDD '14.</li>
+</ul>
+
+<ul>
+	<li>T. H Silva et al. <a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8113">You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare.</a> In Proc. ICWSM 2014.</li>
+</ul>
+
+<hr>
+
+<h4>Resources</h4>
+
+<ul>
+	<li><a href="http://www.geonames.org/">GeoNames</a></li>
+	<li><a href="http://dev.maxmind.com/geoip/legacy/geolite/">GeoLite</a></li>
+</ul>
+
+<hr>
+		</section>
+
+		<!-- Footer -->
+		<footer>
+			<p class="pull-left">&copy; Qing Ke 2015</p>
+			<p class="pull-right">
+				Last updated at Sat Apr 25 2015
+			</p>
+		</footer>
+	</div><!-- /container -->
+
+	<!-- Scripts -->
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><script defer="defer"  src="/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
+</html>
