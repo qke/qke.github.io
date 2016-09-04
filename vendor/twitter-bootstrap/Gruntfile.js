@@ -17,7 +17,6 @@ module.exports = function (grunt) {
 
   var fs = require('fs');
   var path = require('path');
-  var npmShrinkwrap = require('npm-shrinkwrap');
   var generateGlyphiconsData = require('./grunt/bs-glyphicons-data-generator.js');
   var BsLessdocParser = require('./grunt/bs-lessdoc-parser.js');
   var getLessVarsData = function () {
@@ -301,7 +300,9 @@ module.exports = function (grunt) {
 
     jekyll: {
       options: {
-        config: '_config.yml'
+        bundleExec: true,
+        config: '_config.yml',
+        incremental: false
       },
       docs: {},
       github: {
@@ -318,6 +319,7 @@ module.exports = function (grunt) {
           conservativeCollapse: true,
           minifyCSS: true,
           minifyJS: true,
+          processConditionalComments: true,
           removeAttributeQuotes: true,
           removeComments: true
         },
@@ -331,17 +333,17 @@ module.exports = function (grunt) {
       }
     },
 
-    jade: {
+    pug: {
       options: {
         pretty: true,
         data: getLessVarsData
       },
       customizerVars: {
-        src: 'docs/_jade/customizer-variables.jade',
+        src: 'docs/_pug/customizer-variables.pug',
         dest: 'docs/_includes/customizer-variables.html'
       },
       customizerNav: {
-        src: 'docs/_jade/customizer-nav.jade',
+        src: 'docs/_pug/customizer-nav.pug',
         dest: 'docs/_includes/nav/customize.html'
       }
     },
@@ -470,7 +472,7 @@ module.exports = function (grunt) {
 
   // task for building customizer
   grunt.registerTask('build-customizer', ['build-customizer-html', 'build-raw-files']);
-  grunt.registerTask('build-customizer-html', 'jade');
+  grunt.registerTask('build-customizer-html', 'pug');
   grunt.registerTask('build-raw-files', 'Add scripts/less files to customizer.', function () {
     var banner = grunt.template.process('<%= banner %>');
     generateRawFiles(grunt, banner);
@@ -491,20 +493,4 @@ module.exports = function (grunt) {
   grunt.registerTask('docs-github', ['jekyll:github', 'htmlmin']);
 
   grunt.registerTask('prep-release', ['dist', 'docs', 'docs-github', 'compress']);
-
-  // Task for updating the cached npm packages used by the Travis build (which are controlled by test-infra/npm-shrinkwrap.json).
-  // This task should be run and the updated file should be committed whenever Bootstrap's dependencies change.
-  grunt.registerTask('update-shrinkwrap', ['exec:npmUpdate', '_update-shrinkwrap']);
-  grunt.registerTask('_update-shrinkwrap', function () {
-    var done = this.async();
-    npmShrinkwrap({ dev: true, dirname: __dirname }, function (err) {
-      if (err) {
-        grunt.fail.warn(err);
-      }
-      var dest = 'test-infra/npm-shrinkwrap.json';
-      fs.renameSync('npm-shrinkwrap.json', dest);
-      grunt.log.writeln('File ' + dest.cyan + ' updated.');
-      done();
-    });
-  });
 };
