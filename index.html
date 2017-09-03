@@ -74,7 +74,14 @@
 	<div class="container">
 		<!-- Content -->
 		<section id="content" class="content">
-			<h3 id="qing-ke-">Qing Ke (柯庆)</h3>
+			<script type="text/javascript">
+  function toggle_visibility(id) {
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+  }
+</script>
+
+<h3 id="qing-ke-">Qing Ke (柯庆)</h3>
 <p>5th-year PhD student, <a href="http://www.informatics.indiana.edu/">Informatics</a> (<a href="http://www.soic.indiana.edu/graduate/degrees/informatics/complex-systems/index.html">Complex Systems track</a>)</p>
 <p><a href="http://cnets.indiana.edu/">Center for Complex Networks and Systems Research</a> <br>
 <a href="http://www.soic.indiana.edu/">School of Informatics and Computing</a> <br>
@@ -87,23 +94,66 @@
 <h4 id="publications">Publications</h4>
 <p><a href="https://scholar.google.com/citations?user=CSKDXt4AAAAJ&amp;hl=en">Google Scholar Profile</a></p>
 <ul>
-<li><p><a href="http://arxiv.org/abs/1701.01645"><strong>Sharing means renting?: An entire-marketplace analysis of Airbnb</strong></a> <br>
+<li><p><a href="/"><strong>Service Providers of the Sharing Economy: Who Joins and Who Benefits?</strong></a> <br>
 Q Ke <br>
-In <em>Proceedings of ACM Web Science Conference 2017</em>. <a href="http://arxiv.org/abs/1701.01645">arXiv</a></p>
+In <em>Proceedings of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing</em>. <br>
+<a href="/">arXiv</a> |
+<a href="javascript:toggle_visibility('Abb2018')">abstract</a></p>
+<div id="Abb2018" style="display: none;"><br><br></div>
+</li>
+<li><p><a href="http://dl.acm.org/citation.cfm?id=3091504"><strong>Sharing means renting?: An entire-marketplace analysis of Airbnb</strong></a> <br>
+Q Ke <br>
+In <em>Proceedings of the 2017 ACM on Web Science Conference</em>. <br>
+<a href="http://arxiv.org/abs/1701.01645">arXiv</a> |
+<a href="javascript:toggle_visibility('Abb2017')">abstract</a>
+<a href="javascript:toggle_visibility('Abb2017bib')">BibTeX</a></p>
+<div id="Abb2017" style="display: none;">Airbnb, an online marketplace for accommodations, has experienced a staggering growth accompanied by intense debates and scattered regulations around the world. Current discourses, however, are largely focused on opinions rather than empirical evidences. Here, we aim to bridge this gap by presenting the first large-scale measurement study on Airbnb, using a crawled data set containing 2.3 million listings, 1.3 million hosts, and 19.3 million reviews. We measure several key characteristics at the heart of the ongoing debate and the sharing economy. Among others, we find that Airbnb has reached a global yet heterogeneous coverage. The majority of its listings across many countries are entire homes, suggesting that Airbnb is actually more like a rental marketplace rather than a spare-room sharing platform. Analysis on star-ratings reveals that there is a bias toward positive ratings, amplified by a bias toward using positive words in reviews. The extent of such bias is greater than Yelp reviews, which were already shown to exhibit a positive bias. We investigate a key issue—commercial hosts who own multiple listings on Airbnb—repeatedly discussed in the current debate. We find that their existence is prevalent, they are early-movers towards joining Airbnb, and their listings are disproportionately entire homes and located in the US. Our work advances the current understanding of how Airbnb is being used and may serve as an independent and empirical reference to inform the debate. <br><br></div>
+<div id="Abb2017bib" style="display: none;">
+@inproceedings{Ke:2017:SMR:3091478.3091504, <br>
+author = {Ke, Qing}, <br>
+title = {Sharing Means Renting?: An Entire-marketplace Analysis of Airbnb}, <br>
+booktitle = {Proceedings of the 2017 ACM on Web Science Conference}, <br>
+series = {WebSci &#39;17}, <br>
+year = {2017}, <br>
+isbn = {978-1-4503-4896-6}, <br>
+location = {Troy, New York, USA}, <br>
+pages = {131--139}, <br>
+numpages = {9}, <br>
+url = {<a href="http://doi.acm.org/10.1145/3091478.3091504}">http://doi.acm.org/10.1145/3091478.3091504}</a>, <br>
+doi = {10.1145/3091478.3091504}, <br>
+acmid = {3091504}, <br>
+publisher = {ACM}, <br>
+address = {New York, NY, USA}, <br>
+keywords = {airbnb, measurement, online marketplace, sharing economy}, <br>
+} 
+<br><br></div>
 </li>
 <li><p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175368"><strong>A systematic identification and analysis of scientists on Twitter</strong></a> <br>
 Q Ke, YY Ahn, CR Sugimoto <br>
-<em>PLoS ONE</em> <strong>12</strong> (4), e0175368 (2017). <a href="http://arxiv.org/abs/1608.06229">arXiv</a> <br>
-<a href="http://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873">Nature News</a> <br></p>
+<em>PLoS ONE</em> <strong>12</strong> (4), e0175368 (2017). <br>
+<a href="http://arxiv.org/abs/1608.06229">arXiv</a> |
+<a href="javascript:toggle_visibility('Scientist2017')">abstract</a> <br>
+<a href="http://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873">Nature News</a> |
+<a href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/07/12/scientific-birds-of-a-feather-flock-together-science-communication-on-social-media-rarely-happens-across-or-beyond-disciplinary-boundaries/">LSE Impact Blog</a> <br></p>
+<div id="Scientist2017" style="display: none;">Metrics derived from Twitter and other social media—often referred to as altmetrics—are increasingly used to estimate the broader social impacts of scholarship. Such efforts, however, may produce highly misleading results, as the entities that participate in conversations about science on these platforms are largely unknown. For instance, if altmetric activities are generated mainly by scientists, does it really capture broader social impacts of science? Here we present a systematic approach to identifying and analyzing scientists on Twitter. Our method can identify scientists across many disciplines, without relying on external bibliographic data, and be easily adapted to identify other stakeholder groups in science. We investigate the demographics, sharing behaviors, and interconnectivity of the identified scientists. We find that Twitter has been employed by scholars across the disciplinary spectrum, with an over-representation of social and computer and information scientists; under-representation of mathematical, physical, and life scientists; and a better representation of women compared to scholarly publishing. Analysis of the sharing of URLs reveals a distinct imprint of scholarly sites, yet only a small fraction of shared URLs are science-related. We find an assortative mixing with respect to disciplines in the networks between scientists, suggesting the maintenance of disciplinary walls in social media. Our work contributes to the literature both methodologically and conceptually—we provide new methods for disambiguating and identifying particular actors on social media and describing the behaviors of scientists, thus providing foundational information for the construction and use of indicators on the basis of social media metrics. <br><br></div>
 </li>
 <li><p><a href="http://www.pnas.org/content/112/24/7426"><strong>Defining and identifying Sleeping Beauties in science</strong></a> <br>
 Q Ke, E Ferrara, F Radicchi, A Flammini <br>
-<em>Proceedings of the National Academy of Sciences</em> <strong>112</strong> (24), 7426-7431 (2015). <a href="/projects/beauty/PNAS-2015-Ke-7426-31.pdf">PDF</a> | <a href="http://arxiv.org/abs/1505.06454">arXiv</a> | <a href="/projects/beauty/beauty.html">Project page</a> <br>
-<a href="http://www.nature.com/news/wakey-wakey-1.17617">Nature Editorial</a> | <a href="http://www.nature.com/news/sleeping-beauty-papers-slumber-for-decades-1.17615">Nature News</a> | <a href="http://www.nytimes.com/2015/05/26/science/einstein-sleeping-beauty-study.html">NY Times</a> | <a href="http://www.scientificamerican.com/article/graphic-science-some-of-the-best-science-can-slumber-for-years">Scientific American</a></p>
+<em>Proceedings of the National Academy of Sciences</em> <strong>112</strong> (24), 7426-7431 (2015). <br>
+<a href="/projects/beauty/PNAS-2015-Ke-7426-31.pdf">PDF</a> |
+<a href="http://arxiv.org/abs/1505.06454">arXiv</a> |
+<a href="javascript:toggle_visibility('Beauty2015')">abstract</a> |
+<a href="/projects/beauty/beauty.html">Project page</a> <br>
+<a href="http://www.nature.com/news/wakey-wakey-1.17617">Nature Editorial</a> | <a href="http://www.nature.com/news/sleeping-beauty-papers-slumber-for-decades-1.17615">Nature News</a> | <a href="http://www.nytimes.com/2015/05/26/science/einstein-sleeping-beauty-study.html">NY Times</a> | <a href="http://www.scientificamerican.com/article/graphic-science-some-of-the-best-science-can-slumber-for-years">Scientific American</a> <br></p>
+<div id="Beauty2015" style="display: none;">A Sleeping Beauty (SB) in science refers to a paper whose importance is not recognized for several years after publication. Its citation history exhibits a long hibernation period followed by a sudden spike of popularity. Previous studies suggest a relative scarcity of SBs. The reliability of this conclusion is, however, heavily dependent on identification methods based on arbitrary threshold parameters for sleeping time and number of citations, applied to small or monodisciplinary bibliographic datasets. Here we present a systematic, large-scale, and multidisciplinary analysis of the SB phenomenon in science. We introduce a parameter-free measure that quantifies the extent to which a specific paper can be considered an SB. We apply our method to 22 million scientific papers published in all disciplines of natural and social sciences over a time span longer than a century. Our results reveal that the SB phenomenon is not exceptional. There is a continuous spectrum of delayed recognition where both the hibernation period and the awakening intensity are taken into account. Although many cases of SBs can be identified by looking at monodisciplinary bibliographic data, the SB phenomenon becomes much more apparent with the analysis of multidisciplinary datasets, where we can observe many examples of papers achieving delayed yet exceptional importance in disciplines different from those where they were originally published. Our analysis emphasizes a complex feature of citation dynamics that so far has received little attention, and also provides empirical evidence against the use of short-term citation metrics in the quantification of scientific impact. <br><br></div>
 </li>
 <li><p><a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032804"><strong>Tie strength distribution in scientific collaboration networks</strong></a> <br>
 Q Ke, YY Ahn <br>
-<em>Physical Review E</em> <strong>90</strong>, 032804 (2014). <a href="http://arxiv.org/abs/1401.5027">arXiv</a></p>
+<em>Physical Review E</em> <strong>90</strong>, 032804 (2014). <br>
+<a href="http://arxiv.org/abs/1401.5027">arXiv</a> |
+<a href="javascript:toggle_visibility('Tie2014')">abstract</a></p>
+<div id="Tie2014" style="display: none;">Science is increasingly dominated by teams. Understanding patterns of scientific collaboration and their impacts on the productivity and evolution of disciplines is crucial to understand scientific processes. Electronic bibliography offers a unique opportunity to map and investigate the nature of scientific collaboration. Recent studies have demonstrated a counterintuitive organizational pattern of scientific collaboration networks: densely interconnected local clusters consist of weak ties, whereas strong ties play the role of connecting different clusters. This pattern contrasts itself from many other types of networks where strong ties form communities while weak ties connect different communities. Although there are many models for collaboration networks, no model reproduces this pattern. In this paper, we present an evolution model of collaboration networks, which reproduces many properties of real-world collaboration networks, including the organization of tie strengths, skewed degree and weight distribution, high clustering, and assortative mixing. <br><br></div>
+
 </li>
 </ul>
 <hr>
@@ -121,7 +171,7 @@ Q Ke, YY Ahn <br>
 			<p class="pull-left">
 				&copy; Qing Ke
 			<p class="pull-right">
-				Last updated at Sun May 21 2017
+				Last updated at Sun Sep 03 2017
 			</p>
 		</footer>
 	</div><!-- /container -->
