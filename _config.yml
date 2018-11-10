@@ -1,0 +1,25 @@
+title: Qing Ke
+email: keqing.echolife@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  
+baseurl: ""
+url: ""
+twitter_username: kekeldk
+github_username:  qke
+
+markdown: kramdown
+theme: minima
+plugins:
+  
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
