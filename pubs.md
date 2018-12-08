@@ -27,6 +27,35 @@ function toggle_visibility(id) {
       <!-- <object data="/assets/paper-fig/2018techimpact.pdf" height="80" type='application/pdf'/> -->
     </td>
     <td class="col-md-6">
+      <a href=""><strong>Identifying translational science through embeddings of controlled vocabularies</strong></a><br>
+      Qing Ke<br>
+      <em>Journal of the American Medical Informatics Association</em>, 2018<br>
+      <a href="">arXiv</a> |
+      <a href="javascript:toggle_visibility('2018transabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2018transbib')">BibTeX</a><br>
+      <div id="2018transabs" style="display: none;">
+        <strong>Objective:</strong> Translational science aims at "translating" basic scientific discoveries into clinical applications. The identification of translational science has practicality such as evaluating the effectiveness of investments made into large programs like the Clinical and Translational Science Awards. Despite several proposed methods that group publications—the primary unit of research output—into some categories, we still lack a quantitative way to place papers onto the full, continuous spectrum from basic research to clinical medicine. <strong>Methods:</strong> Here we learn vector-representations of controlled vocabularies assigned to MEDLINE papers to obtain a Translational Axis (TA) that points from basic science to clinical medicine. The projected position of a term on the TA, expressed by a continuous quantity, indicates the term's "appliedness." The position of a paper, determined by the average location over its terms, quantifies the degree of its "appliedness," which we term as "level score." <strong>Results:</strong> We validate our method by comparing with previous techniques, showing excellent agreement yet uncovering significant variations of scores of papers in previously defined categories. The measure allows us to characterize the standing of journals, disciplines, and the entire biomedical literature along the basic-applied spectrum. Analysis on large-scale citation network reveals two main findings. First, direct citations mainly occurred between papers with similar scores. Second, shortest paths are more likely ended up with a paper closer to the basic end of the spectrum, regardless of where the starting paper is on the spectrum. <strong>Conclusions:</strong> The proposed method provides a quantitative way to identify translational science.<br>
+      </div>
+      <div id="2018transbib" style="display: none;">
+        @article{ke-trans-2018,<br>
+        author = {Qing Ke},<br>
+        title = {Identifying translational science through embeddings of controlled vocabularies},<br>
+        journal = {Journal of the American Medical Informatics Association},<br>
+        volume = {},<br>
+        number = {},<br>
+        pages = {},<br>
+        year = {2018},<br>
+        doi = {10.1093/jamia/ocy177}<br>
+        }<br>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+      <!-- <object data="/assets/paper-fig/2018techimpact.pdf" height="80" type='application/pdf'/> -->
+    </td>
+    <td class="col-md-6">
       <a href="https://www.sciencedirect.com/science/article/pii/S1751157718300981"><strong>Comparing scientific and technological impact of biomedical research</strong></a><br>
       Qing Ke<br>
       <em>Journal of Informetrics</em> <strong>12</strong> (3), 706-717 (2018)<br>
