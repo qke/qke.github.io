@@ -14,6 +14,12 @@ function toggle_visibility(id) {
 * [ORCID ID](https://orcid.org/0000-0002-2945-5274)
 * [Google Scholar](https://scholar.google.com/citations?user=CSKDXt4AAAAJ&hl=en)
 
+### Preprint
+
+* [An analysis of the evolution of science-technology linkage in biomedicine](/assets/pdf/npr_flow.pdf)
+
+### Published
+
 <ul>
 <li>
 <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b"><strong>Identifying translational science through embeddings of controlled vocabularies</strong></a><br>
