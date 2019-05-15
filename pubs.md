@@ -24,7 +24,7 @@ function toggle_visibility(id) {
 <li>
 <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b"><strong>Identifying translational science through embeddings of controlled vocabularies</strong></a><br>
 Qing Ke<br>
-<em>Journal of the American Medical Informatics Association</em>, 2019<br>
+<em>Journal of the American Medical Informatics Association</em> <strong>26</strong> (6), 516-523 (2019)<br>
 <a href="https://arxiv.org/abs/1812.10609">arXiv</a> |
 <a href="javascript:toggle_visibility('2018transabs')">abstract</a> |
 <a href="javascript:toggle_visibility('2018transbib')">BibTeX</a> |
@@ -37,10 +37,10 @@ Qing Ke<br>
 author = {Qing Ke},<br>
 title = {Identifying translational science through embeddings of controlled vocabularies},<br>
 journal = {Journal of the American Medical Informatics Association},<br>
-volume = {},<br>
-number = {},<br>
-pages = {},<br>
-year = {2018},<br>
+volume = {26},<br>
+number = {6},<br>
+pages = {516--523},<br>
+year = {2019},<br>
 doi = {10.1093/jamia/ocy177}<br>
 }<br>
 </div>
