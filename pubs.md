@@ -50,11 +50,12 @@ function toggle_visibility(id) {
     <td>
       <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b">Identifying translational science through embeddings of controlled vocabularies</a><br>
       <b>Qing Ke</b><br>
-      <em>Journal of the American Medical Informatics Association</em> <strong>26</strong> (6), 516-523 (2019)<br>
+      <em>Journal of the American Medical Informatics Association</em> <strong>26</strong>, 516-523 (2019)<br>
       <a href="https://arxiv.org/abs/1812.10609">arXiv</a> |
       <a href="javascript:toggle_visibility('2018transabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2018transbib')">BibTeX</a> |
-      <a href="/assets/pdf/trans_supp.pdf">SI</a><br>
+      <a href="/assets/pdf/trans_supp.pdf">SI</a> |
+      <a href="https://doi.org/10.6084/m9.figshare.11338880.v1">Data</a><br>
       <div id="2018transabs" style="display: none;">
         <strong>Objective:</strong> Translational science aims at "translating" basic scientific discoveries into clinical applications. The identification of translational science has practicality such as evaluating the effectiveness of investments made into large programs like the Clinical and Translational Science Awards. Despite several proposed methods that group publications—the primary unit of research output—into some categories, we still lack a quantitative way to place papers onto the full, continuous spectrum from basic research to clinical medicine. <strong>Methods:</strong> Here we learn vector-representations of controlled vocabularies assigned to MEDLINE papers to obtain a Translational Axis (TA) that points from basic science to clinical medicine. The projected position of a term on the TA, expressed by a continuous quantity, indicates the term's "appliedness." The position of a paper, determined by the average location over its terms, quantifies the degree of its "appliedness," which we term as "level score." <strong>Results:</strong> We validate our method by comparing with previous techniques, showing excellent agreement yet uncovering significant variations of scores of papers in previously defined categories. The measure allows us to characterize the standing of journals, disciplines, and the entire biomedical literature along the basic-applied spectrum. Analysis on large-scale citation network reveals two main findings. First, direct citations mainly occurred between papers with similar scores. Second, shortest paths are more likely ended up with a paper closer to the basic end of the spectrum, regardless of where the starting paper is on the spectrum. <strong>Conclusions:</strong> The proposed method provides a quantitative way to identify translational science.<br>
       </div>
@@ -74,11 +75,11 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2018techimpact.png" width="400" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2018techimpact.png" /></td>
     <td>
       <a href="https://www.sciencedirect.com/science/article/pii/S1751157718300981">Comparing scientific and technological impact of biomedical research</a><br>
       <b>Qing Ke</b><br>
-      <em>Journal of Informetrics</em> <strong>12</strong> (3), 706-717 (2018)<br>
+      <em>Journal of Informetrics</em> <strong>12</strong>, 706-717 (2018)<br>
       <a href="https://arxiv.org/abs/1804.04105">arXiv</a> |
       <a href="javascript:toggle_visibility('2018techimpactabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2018techimpactbib')">BibTeX</a><br>
@@ -101,11 +102,11 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2017providerentire.png" width="300" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2017providerentire.png" /></td>
     <td>
       <a href="https://dl.acm.org/citation.cfm?id=3134692">Service providers of the sharing economy: Who joins and who benefits?</a><br>
       <b>Qing Ke</b><br>
-      <em>Proceedings of the ACM on Human-Computer Interaction</em> <strong>1</strong> (CSCW), 57 (2017)<br>
+      <em>Proceedings of the ACM on Human-Computer Interaction</em> <strong>1</strong>, 57 (2017)<br>
       <a href="https://arxiv.org/abs/1709.07580">arXiv</a> |
       <a href="javascript:toggle_visibility('2017providerabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2017providerbib')">BibTeX</a> |
@@ -129,7 +130,7 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2017airbnb.png" width="300" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2017airbnb.png" /></td>
     <td>
       <a href="http://dl.acm.org/citation.cfm?id=3091504">Sharing means renting?: An entire-marketplace analysis of Airbnb</a><br>
       <b>Qing Ke</b><br>
@@ -154,11 +155,11 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2017scientist.png" width="200" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2017scientist.png" /></td>
     <td>
       <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175368">A systematic identification and analysis of scientists on Twitter</a><br>
       <b>Qing Ke</b>, Yong-Yeol Ahn, Cassidy R. Sugimoto<br>
-      <em>PLoS ONE</em> <strong>12</strong> (4), e0175368 (2017)<br>
+      <em>PLoS ONE</em> <strong>12</strong>, e0175368 (2017)<br>
       <a href="https://arxiv.org/abs/1608.06229">arXiv</a> |
       <a href="javascript:toggle_visibility('2017scientistabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2017scientistbib')">BibTeX</a> |
@@ -184,11 +185,11 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td><img src="/assets/paper-fig/2015beauty.jpg" width="200" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2015beauty.jpg" /></td>
     <td>
       <a href="http://www.pnas.org/content/112/24/7426">Defining and identifying Sleeping Beauties in science</a><br>
       <b>Qing Ke</b>, Emilio Ferrara, Filippo Radicchi, Alessandro Flammini<br>
-      <em>Proceedings of the National Academy of Sciences</em> <strong>112</strong> (24), 7426-7431 (2015)<br>
+      <em>Proceedings of the National Academy of Sciences</em> <strong>112</strong>, 7426-7431 (2015)<br>
       <a href="https://arxiv.org/abs/1505.06454">arXiv</a> |
       <a href="javascript:toggle_visibility('2015beautyabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2015beautybib')">BibTeX</a> |
@@ -216,7 +217,7 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td><img src="/assets/paper-fig/2014tie.png" width="300" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2014tie.png" /></td>
     <td>
       <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032804">Tie strength distribution in scientific collaboration networks</a><br>
       <b>Qing Ke</b>, Yong-Yeol Ahn<br>
