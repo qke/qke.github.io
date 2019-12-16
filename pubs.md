@@ -22,6 +22,32 @@ function toggle_visibility(id) {
 
 <table>
   <tr>
+    <td height="100" width="180"><img src="/assets/paper-fig/2020lsc.png" /></td>
+    <td>
+      <a href="https://authors.elsevier.com/a/1aEVK6EAijpWDn">The citation disadvantage of clinical research</a><br>
+      <b>Qing Ke</b><br>
+      <em>Journal of Informetrics</em> <strong>14</strong>, 100998 (2020)<br>
+      <a href="https://arxiv.org/abs/1912.01527">arXiv</a> |
+      <a href="javascript:toggle_visibility('2020citationabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2020citationbib')">BibTeX</a>
+      <div id="2020citationabs" style="display: none;">
+        Biomedical research encompasses diverse types of activities, from basic science (“bench”) to clinical medicine (“bedside”) to bench-to-bedside translational research. It, however, remains unclear whether different types of research receive citations at varying rates. Here we aim to answer this question by using a newly proposed paper-level indicator that quantifies the extent to which a paper is basic science or clinical medicine. Applying this measure to 5 million biomedical papers, we find a systematic citation disadvantage of clinical oriented papers; they tend to garner far fewer citations and are less likely to be hit works than papers oriented towards basic science. At the same time, clinical research has a higher variance in its citation. We also find that the citation difference between basic and clinical research decreases, yet still persists, if longer citation-window is used. Given the increasing adoption of short-term, citation-based bibliometric indicators in funding decisions, the under-cited effect of clinical research may provide disincentives for bio-researchers to venture into the translation of basic scientific discoveries into clinical applications, thus providing explanations of reasons behind the existence of the gap between basic and clinical research that is commented as “valley of death” and the commentary of “extinction” risk of translational researchers. Our work may provide insights to policy-makers on how to evaluate different types of biomedical research.<br>
+      </div>
+      <div id="2020citationbib" style="display: none;">
+        @article{ke-citation-2020,<br>
+        author = {Qing Ke},<br>
+        title = {The citation disadvantage of clinical research},<br>
+        journal = {Journal of Informetrics},<br>
+        volume = {14},<br>
+        pages = {100998},<br>
+        year = {2020},<br>
+        doi = {10.1016/j.joi.2019.100998}<br>
+        }<br>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
     <td height="100" width="180"></td>
     <td>
       <a href="https://doi.org/10.1038/d41586-019-03308-7">Nature's reach: narrow work has broad impact</a><br>
@@ -46,7 +72,7 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/trans.png" /></td>
+    <td height="100" width="180"><img src="/assets/paper-fig/2019trans.png" /></td>
     <td>
       <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b">Identifying translational science through embeddings of controlled vocabularies</a><br>
       <b>Qing Ke</b><br>
