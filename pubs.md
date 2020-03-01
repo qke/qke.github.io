@@ -22,9 +22,9 @@ function toggle_visibility(id) {
 
 <table>
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2020lsc.png" /></td>
+    <td><img src="/assets/paper-fig/2020lsc.png"/></td>
     <td>
-      <a href="https://authors.elsevier.com/a/1aEVK6EAijpWDn">The citation disadvantage of clinical research</a><br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S1751157719303025">The citation disadvantage of clinical research</a><br>
       <b>Qing Ke</b><br>
       <em>Journal of Informetrics</em> <strong>14</strong>, 100998 (2020)<br>
       <a href="https://arxiv.org/abs/1912.01527">arXiv</a> |
