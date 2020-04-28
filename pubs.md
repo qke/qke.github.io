@@ -25,7 +25,7 @@ function toggle_visibility(id) {
     <td><img src="/assets/paper-fig/2020lsc.png"/></td>
     <td>
       <a href="https://www.sciencedirect.com/science/article/pii/S1751157719303025">The citation disadvantage of clinical research</a><br>
-      <b>Qing Ke</b><br>
+      <b>Q. Ke</b><br>
       <em>Journal of Informetrics</em> <strong>14</strong>, 100998 (2020)<br>
       <a href="https://arxiv.org/abs/1912.01527">arXiv</a> |
       <a href="javascript:toggle_visibility('2020citationabs')">abstract</a> |
@@ -48,34 +48,10 @@ function toggle_visibility(id) {
   </tr>
 
   <tr>
-    <td height="100" width="180"></td>
-    <td>
-      <a href="https://doi.org/10.1038/d41586-019-03308-7">Nature's reach: narrow work has broad impact</a><br>
-      Alexander J. Gates, <b>Qing Ke</b>, Onur Varol, Albert-László Barabási<br>
-      <em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
-      <a href="javascript:toggle_visibility('2019naturebib')">BibTeX</a> |
-      <a href="https://www.youtube.com/watch?v=GW4s58u8PZo">video</a> |
-      <a href="https://www.nature.com/immersive/d42859-019-00121-0/public/pdf/nature-150-cover.pdf">cover</a> |
-      <a href="https://www.nature.com/immersive/d41586-019-03165-4/index.html">interactive</a>
-      <div id="2019naturebib" style="display: none;">
-        @article{gates-nature-2019,<br>
-        author = {Alexander J. Gates and Qing Ke and Onur Varol and Albert-László Barabási},<br>
-        title = {Nature's reach: narrow work has broad impact},<br>
-        journal = {Nature},<br>
-        volume = {575},<br>
-        pages = {32--34},<br>
-        year = {2019},<br>
-        doi = {10.1038/d41586-019-03308-7}<br>
-        }<br>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
     <td height="100" width="180"><img src="/assets/paper-fig/2019trans.png" /></td>
     <td>
       <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b">Identifying translational science through embeddings of controlled vocabularies</a><br>
-      <b>Qing Ke</b><br>
+      <b>Q. Ke</b><br>
       <em>Journal of the American Medical Informatics Association</em> <strong>26</strong>, 516-523 (2019)<br>
       <a href="https://arxiv.org/abs/1812.10609">arXiv</a> |
       <a href="javascript:toggle_visibility('2018transabs')">abstract</a> |
@@ -106,7 +82,7 @@ function toggle_visibility(id) {
     <td height="100" width="180"><img src="/assets/paper-fig/2018techimpact.png" /></td>
     <td>
       <a href="https://www.sciencedirect.com/science/article/pii/S1751157718300981">Comparing scientific and technological impact of biomedical research</a><br>
-      <b>Qing Ke</b><br>
+      <b>Q. Ke</b><br>
       <em>Journal of Informetrics</em> <strong>12</strong>, 706-717 (2018)<br>
       <a href="https://arxiv.org/abs/1804.04105">arXiv</a> |
       <a href="javascript:toggle_visibility('2018techimpactabs')">abstract</a> |
@@ -133,7 +109,7 @@ function toggle_visibility(id) {
     <td height="100" width="180"><img src="/assets/paper-fig/2017providerentire.png" /></td>
     <td>
       <a href="https://dl.acm.org/citation.cfm?id=3134692">Service providers of the sharing economy: Who joins and who benefits?</a><br>
-      <b>Qing Ke</b><br>
+      <b>Q. Ke</b><br>
       <em>Proceedings of the ACM on Human-Computer Interaction</em> <strong>1</strong>, 57 (2017)<br>
       <a href="https://arxiv.org/abs/1709.07580">arXiv</a> |
       <a href="javascript:toggle_visibility('2017providerabs')">abstract</a> |
@@ -161,7 +137,7 @@ function toggle_visibility(id) {
     <td height="100" width="180"><img src="/assets/paper-fig/2017airbnb.png" /></td>
     <td>
       <a href="http://dl.acm.org/citation.cfm?id=3091504">Sharing means renting?: An entire-marketplace analysis of Airbnb</a><br>
-      <b>Qing Ke</b><br>
+      <b>Q. Ke</b><br>
       In <em>Proceedings of the 2017 ACM on Web Science Conference</em>, 131-139.<br>
       <a href="http://arxiv.org/abs/1701.01645">arXiv</a> |
       <a href="javascript:toggle_visibility('2017airbnbabs')">abstract</a> |
@@ -186,7 +162,7 @@ function toggle_visibility(id) {
     <td height="100" width="180"><img src="/assets/paper-fig/2017scientist.png" /></td>
     <td>
       <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175368">A systematic identification and analysis of scientists on Twitter</a><br>
-      <b>Qing Ke</b>, Yong-Yeol Ahn, Cassidy R. Sugimoto<br>
+      <b>Q. Ke</b>, Y.-Y. Ahn, C. R. Sugimoto<br>
       <em>PLoS ONE</em> <strong>12</strong>, e0175368 (2017)<br>
       <a href="https://arxiv.org/abs/1608.06229">arXiv</a> |
       <a href="javascript:toggle_visibility('2017scientistabs')">abstract</a> |
@@ -216,7 +192,7 @@ function toggle_visibility(id) {
     <td height="100" width="180"><img src="/assets/paper-fig/2015beauty.jpg" /></td>
     <td>
       <a href="http://www.pnas.org/content/112/24/7426">Defining and identifying Sleeping Beauties in science</a><br>
-      <b>Qing Ke</b>, Emilio Ferrara, Filippo Radicchi, Alessandro Flammini<br>
+      <b>Q. Ke</b>, E. Ferrara, F. Radicchi, A. Flammini<br>
       <em>Proceedings of the National Academy of Sciences</em> <strong>112</strong>, 7426-7431 (2015)<br>
       <a href="https://arxiv.org/abs/1505.06454">arXiv</a> |
       <a href="javascript:toggle_visibility('2015beautyabs')">abstract</a> |
@@ -248,7 +224,7 @@ function toggle_visibility(id) {
     <td height="100" width="180"><img src="/assets/paper-fig/2014tie.png" /></td>
     <td>
       <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032804">Tie strength distribution in scientific collaboration networks</a><br>
-      <b>Qing Ke</b>, Yong-Yeol Ahn<br>
+      <b>Q. Ke</b>, Y.-Y. Ahn<br>
       <em>Physical Review E</em> <strong>90</strong>, 032804 (2014)<br>
       <a href="https://arxiv.org/abs/1401.5027">arXiv</a> |
       <a href="javascript:toggle_visibility('2014tieabs')">abstract</a> |
@@ -273,5 +249,23 @@ function toggle_visibility(id) {
       </div>
     </td>
   </tr>
-
 </table>
+
+### Others
+
+1. A. J. Gates, <b>Q. Ke</b>, O. Varol, A.-L. Barabási. [Nature's reach: narrow work has broad impact](https://doi.org/10.1038/d41586-019-03308-7). <em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
+<a href="javascript:toggle_visibility('2019naturebib')">BibTeX</a> |
+<a href="https://www.youtube.com/watch?v=GW4s58u8PZo">video</a> |
+<a href="https://www.nature.com/immersive/d42859-019-00121-0/public/pdf/nature-150-cover.pdf">cover</a> |
+<a href="https://www.nature.com/immersive/d41586-019-03165-4/index.html">interactive</a>
+<div id="2019naturebib" style="display: none;">
+        @article{gates-nature-2019,<br>
+        author = {Alexander J. Gates and Qing Ke and Onur Varol and Albert-László Barabási},<br>
+        title = {Nature's reach: narrow work has broad impact},<br>
+        journal = {Nature},<br>
+        volume = {575},<br>
+        pages = {32--34},<br>
+        year = {2019},<br>
+        doi = {10.1038/d41586-019-03308-7}<br>
+        }<br>
+</div>
