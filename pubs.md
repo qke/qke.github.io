@@ -11,12 +11,18 @@ function toggle_visibility(id) {
 }
 </script>
 
-* [ORCID ID](https://orcid.org/0000-0002-2945-5274)
 * [Google Scholar](https://scholar.google.com/citations?user=CSKDXt4AAAAJ&hl=en)
+* [ORCID ID](https://orcid.org/0000-0002-2945-5274)
 
 ### Preprint
 
-* [An analysis of the evolution of science-technology linkage in biomedicine](/assets/pdf/npr_flow.pdf)
+* [Neural Embeddings of Scholarly Periodicals Reveal Complex Disciplinary Organizations](https://arxiv.org/abs/2001.08199)<br>
+H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
+[arXiv:2001.08199](https://arxiv.org/abs/2001.08199) (2020)
+
+* [An analysis of the evolution of science-technology linkage in biomedicine](/assets/pdf/npr_flow.pdf)<br>
+<b>Q. Ke</b><br>
+[arXiv:1903.10610](https://arxiv.org/abs/1903.10610) (2019)
 
 ### Published
 
@@ -253,7 +259,9 @@ function toggle_visibility(id) {
 
 ### Others
 
-1. A. J. Gates, <b>Q. Ke</b>, O. Varol, A.-L. Barabási. [Nature's reach: narrow work has broad impact](https://doi.org/10.1038/d41586-019-03308-7). <em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
+* [Nature's reach: narrow work has broad impact](https://doi.org/10.1038/d41586-019-03308-7)<br>
+A. J. Gates, <b>Q. Ke</b>, O. Varol, A.-L. Barabási<br>
+<em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
 <a href="javascript:toggle_visibility('2019naturebib')">BibTeX</a> |
 <a href="https://www.youtube.com/watch?v=GW4s58u8PZo">video</a> |
 <a href="https://www.nature.com/immersive/d42859-019-00121-0/public/pdf/nature-150-cover.pdf">cover</a> |
@@ -269,3 +277,11 @@ function toggle_visibility(id) {
         doi = {10.1038/d41586-019-03308-7}<br>
         }<br>
 </div>
+
+* [Scientific birds of a feather flock together: science communication on social media rarely happens across or beyond disciplinary boundaries](http://eprints.lse.ac.uk/83921/)<br>
+<b>Q. Ke</b>, Y.-Y. Ahn, C. R. Sugimoto<br>
+<em>Impact of Social Sciences Blog</em> (2017)
+
+* [Social media metrics as indicators of broader impact](https://www.oecd.org/sti/172%20-%20SugimotoOECDaltmetrics.pdf)<br>
+C. R. Sugimoto, S. Haustein, <b>Q. Ke</b>, V. Larivière<br>
+<em>OECD Blue Sky III Forum on Science and Innovation Indicators</em> (2016)
