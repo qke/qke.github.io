@@ -14,6 +14,10 @@ function toggle_visibility(id) {
 * [Google Scholar](https://scholar.google.com/citations?user=CSKDXt4AAAAJ&hl=en)
 * [ORCID ID](https://orcid.org/0000-0002-2945-5274)
 
+----
+
+<br>
+
 ### Preprint
 
 * [Technological impact of biomedical research: the role of basicness and novelty](https://arxiv.org/abs/2006.02472)<br>
@@ -24,9 +28,13 @@ function toggle_visibility(id) {
 H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 [arXiv:2001.08199](https://arxiv.org/abs/2001.08199) (2020)
 
-* [An analysis of the evolution of science-technology linkage in biomedicine](/assets/pdf/npr_flow.pdf)<br>
+* [An analysis of the evolution of science-technology linkage in biomedicine](https://arxiv.org/abs/1903.10610)<br>
 <b>Q. Ke</b><br>
 [arXiv:1903.10610](https://arxiv.org/abs/1903.10610) (2019)
+
+----
+
+<br>
 
 ### Published
 
@@ -260,6 +268,10 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
     </td>
   </tr>
 </table>
+
+----
+
+<br>
 
 ### Others
 
