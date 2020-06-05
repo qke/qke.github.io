@@ -16,6 +16,10 @@ function toggle_visibility(id) {
 
 ### Preprint
 
+* [Technological impact of biomedical research: the role of basicness and novelty](https://arxiv.org/abs/2006.02472)<br>
+<b>Q. Ke</b><br>
+[arXiv:2006.02472](https://arxiv.org/abs/2006.02472) (2020)
+
 * [Neural Embeddings of Scholarly Periodicals Reveal Complex Disciplinary Organizations](https://arxiv.org/abs/2001.08199)<br>
 H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 [arXiv:2001.08199](https://arxiv.org/abs/2001.08199) (2020)
