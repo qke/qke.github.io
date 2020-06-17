@@ -66,6 +66,30 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
   </tr>
 
   <tr>
+    <td><img height="100" width="180" src="https://media.nature.com/lw800/magazine-assets/d41586-019-03308-7/d41586-019-03308-7_17345482.jpg" /></td>
+    <td>
+      <a href="https://doi.org/10.1038/d41586-019-03308-7">Nature's reach: narrow work has broad impact</a><br>
+      A. J. Gates, <b>Q. Ke</b>, O. Varol, A.-L. Barabási<br>
+      <em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
+      <a href="javascript:toggle_visibility('2019naturebib')">BibTeX</a> |
+      <a href="https://www.youtube.com/watch?v=GW4s58u8PZo">video</a> |
+      <a href="https://www.nature.com/immersive/d42859-019-00121-0/public/pdf/nature-150-cover.pdf">cover</a> |
+      <a href="https://www.nature.com/immersive/d41586-019-03165-4/index.html">interactive</a>
+      <div id="2019naturebib" style="display: none;">
+        @article{gates-nature-2019,<br>
+        author = {Alexander J. Gates and Qing Ke and Onur Varol and Albert-László Barabási},<br>
+        title = {Nature's reach: narrow work has broad impact},<br>
+        journal = {Nature},<br>
+        volume = {575},<br>
+        pages = {32--34},<br>
+        year = {2019},<br>
+        doi = {10.1038/d41586-019-03308-7}<br>
+        }<br>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
     <td height="100" width="180"><img src="/assets/paper-fig/2019trans.png" /></td>
     <td>
       <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b">Identifying translational science through embeddings of controlled vocabularies</a><br>
@@ -273,26 +297,7 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 
 <br>
 
-### Others
-
-* [Nature's reach: narrow work has broad impact](https://doi.org/10.1038/d41586-019-03308-7)<br>
-A. J. Gates, <b>Q. Ke</b>, O. Varol, A.-L. Barabási<br>
-<em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
-<a href="javascript:toggle_visibility('2019naturebib')">BibTeX</a> |
-<a href="https://www.youtube.com/watch?v=GW4s58u8PZo">video</a> |
-<a href="https://www.nature.com/immersive/d42859-019-00121-0/public/pdf/nature-150-cover.pdf">cover</a> |
-<a href="https://www.nature.com/immersive/d41586-019-03165-4/index.html">interactive</a>
-<div id="2019naturebib" style="display: none;">
-        @article{gates-nature-2019,<br>
-        author = {Alexander J. Gates and Qing Ke and Onur Varol and Albert-László Barabási},<br>
-        title = {Nature's reach: narrow work has broad impact},<br>
-        journal = {Nature},<br>
-        volume = {575},<br>
-        pages = {32--34},<br>
-        year = {2019},<br>
-        doi = {10.1038/d41586-019-03308-7}<br>
-        }<br>
-</div>
+### Other
 
 * [Scientific birds of a feather flock together: science communication on social media rarely happens across or beyond disciplinary boundaries](http://eprints.lse.ac.uk/83921/)<br>
 <b>Q. Ke</b>, Y.-Y. Ahn, C. R. Sugimoto<br>
