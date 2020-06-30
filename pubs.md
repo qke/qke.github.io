@@ -20,6 +20,10 @@ function toggle_visibility(id) {
 
 ### Preprint
 
+* [Interdisciplinary research and technological impact](https://arxiv.org/abs/2006.15383)<br>
+<b>Q. Ke</b><br>
+[arXiv:2006.15383](https://arxiv.org/abs/2006.15383)
+
 * [Technological impact of biomedical research: the role of basicness and novelty](https://arxiv.org/abs/2006.02472)<br>
 <b>Q. Ke</b><br>
 [arXiv:2006.02472](https://arxiv.org/abs/2006.02472) (2020)
@@ -28,10 +32,6 @@ function toggle_visibility(id) {
 H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 [arXiv:2001.08199](https://arxiv.org/abs/2001.08199) (2020)
 
-* [An analysis of the evolution of science-technology linkage in biomedicine](https://arxiv.org/abs/1903.10610)<br>
-<b>Q. Ke</b><br>
-[arXiv:1903.10610](https://arxiv.org/abs/1903.10610) (2019)
-
 ----
 
 <br>
@@ -39,6 +39,32 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 ### Published
 
 <table>
+  <tr>
+  	<td><img height="120" src="/assets/paper-fig/2020stlink.jpg"/></td>
+  	<td>
+  	  <a href="/">An analysis of the evolution of science-technology linkage in biomedicine</a><br>
+      <b>Q. Ke</b><br>
+      <em>Journal of Informetrics</em> (2020)<br>
+      <a href="https://arxiv.org/abs/1903.10610">arXiv</a> |
+      <a href="javascript:toggle_visibility('2020stevoabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2020stevobib')">BibTeX</a>
+      <div id="2020stevoabs" style="display: none;">
+        Demonstrating the practical value of public research has been an important subject in science policy. Here we present a detailed study on the evolution of the citation linkage between life science related patents and biomedical research over a 37-year period. Our analysis relies on a newly-created dataset that systematically links millions of non-patent references to biomedical papers. We find a large disparity in the volume of citations to science among technology sectors, with biotechnology and drug patents dominating it. The linkage has been growing exponentially over a long period of time, doubling every 2.9 years. The U.S. has been the largest producer of cited science for years, receiving nearly half of the citations. More than half of citations goes to universities. We use a new paper-level indicator to quantify to what extent a paper is basic research or clinical medicine. We find that the cited papers are likely to be basic research, yet a significant portion of papers cited in patents that are related to FDA-approved drugs are clinical research. The U.S. National Institute of Health continues to be an important funder of cited science. For the majority of companies, more than half of citations in their patents are authored by public research. Taken together, these results indicate a continuous linkage of public science to private sector inventions.<br>
+      </div>
+      <div id="2020stevobib" style="display: none;">
+        @article{ke-analysis-2020,<br>
+        author = {Qing Ke},<br>
+        title = {An analysis of the evolution of science-technology linkage in biomedicine},<br>
+        journal = {Journal of Informetrics},<br>
+        volume = {},<br>
+        pages = {},<br>
+        year = {2020},<br>
+        doi = {}<br>
+        }<br>
+      </div>
+  	</td>
+  </tr>
+
   <tr>
     <td><img src="/assets/paper-fig/2020lsc.png"/></td>
     <td>
