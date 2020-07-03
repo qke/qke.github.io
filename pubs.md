@@ -42,9 +42,9 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
   <tr>
   	<td><img height="120" src="/assets/paper-fig/2020stlink.jpg"/></td>
   	<td>
-  	  <a href="/">An analysis of the evolution of science-technology linkage in biomedicine</a><br>
+  	  <a href="https://doi.org/10.1016/j.joi.2020.101074">An analysis of the evolution of science-technology linkage in biomedicine</a><br>
       <b>Q. Ke</b><br>
-      <em>Journal of Informetrics</em> (2020)<br>
+      <em>Journal of Informetrics</em> <strong>14</strong>, 101074 (2020)<br>
       <a href="https://arxiv.org/abs/1903.10610">arXiv</a> |
       <a href="javascript:toggle_visibility('2020stevoabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2020stevobib')">BibTeX</a>
