@@ -22,11 +22,7 @@ function toggle_visibility(id) {
 
 * [Interdisciplinary research and technological impact](https://arxiv.org/abs/2006.15383)<br>
 <b>Q. Ke</b><br>
-[arXiv:2006.15383](https://arxiv.org/abs/2006.15383)
-
-* [Technological impact of biomedical research: the role of basicness and novelty](https://arxiv.org/abs/2006.02472)<br>
-<b>Q. Ke</b><br>
-[arXiv:2006.02472](https://arxiv.org/abs/2006.02472) (2020)
+[arXiv:2006.15383](https://arxiv.org/abs/2006.15383) (2020)
 
 * [Neural Embeddings of Scholarly Periodicals Reveal Complex Disciplinary Organizations](https://arxiv.org/abs/2001.08199)<br>
 H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
@@ -39,6 +35,32 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 ### Published
 
 <table>
+  <tr>
+  	<td></td>
+  	<td>
+  	  <a href="">Technological impact of biomedical research: the role of basicness and novelty</a><br>
+  	  <b>Q. Ke</b><br>
+  	  <em>Research Policy</em>, (2020)<br>
+  	  <a href="https://arxiv.org/abs/2006.02472">arXiv</a> |
+  	  <a href="javascript:toggle_visibility('2020basicabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2020basicbib')">BibTeX</a>
+      <div id="2020basicabs" style="display: none;">
+        An ongoing interest in innovation studies is to understand how knowledge generated from scientific research can be used in the development of technologies. While previous inquiries have devoted to studying the scientific capacity of technologies and institutional factors facilitating technology transfer, little is known about the intrinsic characteristics of scientific publications that gain direct technological impact. Here we focus on two features, namely basicness and novelty. Using a corpus of 3.8 million papers published between 1980 and 1999, we find that basic science papers and novel papers are substantially more likely to achieve direct technological impact. Further analysis that limits to papers with technological impact reveals that basic science and novel science have more patent citations, experience shorter time lag, and have impact in broader technological fields.<br>
+      </div>
+      <div id="2020basicbib" style="display: none;">
+        @article{ke-technological-2020,<br>
+        author = {Qing Ke},<br>
+        title = {Technological impact of biomedical research: the role of basicness and novelty},<br>
+        journal = {Research Policy},<br>
+        volume = {},<br>
+        pages = {},<br>
+        year = {2020},<br>
+        doi = {}<br>
+        }<br>
+      </div>
+  	</td>
+  </tr>
+
   <tr>
   	<td><img height="120" src="/assets/paper-fig/2020stlink.jpg"/></td>
   	<td>
@@ -56,10 +78,10 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
         author = {Qing Ke},<br>
         title = {An analysis of the evolution of science-technology linkage in biomedicine},<br>
         journal = {Journal of Informetrics},<br>
-        volume = {},<br>
-        pages = {},<br>
+        volume = {14},<br>
+        pages = {101074},<br>
         year = {2020},<br>
-        doi = {}<br>
+        doi = {10.1016/j.joi.2020.101074}<br>
         }<br>
       </div>
   	</td>
