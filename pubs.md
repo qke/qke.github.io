@@ -36,11 +36,11 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 
 <table>
   <tr>
-  	<td></td>
+  	<td><img height="120" src="/assets/paper-fig/2020tech.jpg"/></td>
   	<td>
-  	  <a href="">Technological impact of biomedical research: the role of basicness and novelty</a><br>
+  	  <a href="https://doi.org/10.1016/j.respol.2020.104071">Technological impact of biomedical research: The role of basicness and novelty</a><br>
   	  <b>Q. Ke</b><br>
-  	  <em>Research Policy</em>, (2020)<br>
+  	  <em>Research Policy</em> <strong>49</strong>, 104071 (2020)<br>
   	  <a href="https://arxiv.org/abs/2006.02472">arXiv</a> |
   	  <a href="javascript:toggle_visibility('2020basicabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2020basicbib')">BibTeX</a>
@@ -50,12 +50,12 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
       <div id="2020basicbib" style="display: none;">
         @article{ke-technological-2020,<br>
         author = {Qing Ke},<br>
-        title = {Technological impact of biomedical research: the role of basicness and novelty},<br>
+        title = {Technological impact of biomedical research: The role of basicness and novelty},<br>
         journal = {Research Policy},<br>
-        volume = {},<br>
-        pages = {},<br>
+        volume = {49},<br>
+        pages = {104071},<br>
         year = {2020},<br>
-        doi = {}<br>
+        doi = {10.1016/j.respol.2020.104071}<br>
         }<br>
       </div>
   	</td>
@@ -88,7 +88,7 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
   </tr>
 
   <tr>
-    <td><img src="/assets/paper-fig/2020lsc.png"/></td>
+    <td><img height="80" src="/assets/paper-fig/2020lsc.png"/></td>
     <td>
       <a href="https://www.sciencedirect.com/science/article/pii/S1751157719303025">The citation disadvantage of clinical research</a><br>
       <b>Q. Ke</b><br>
@@ -138,7 +138,7 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2019trans.png" /></td>
+    <td height="140" width="180"><img src="/assets/paper-fig/2019trans.png" /></td>
     <td>
       <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b">Identifying translational science through embeddings of controlled vocabularies</a><br>
       <b>Q. Ke</b><br>
@@ -169,7 +169,7 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
   </tr>
 
   <tr>
-    <td height="100" width="180"><img src="/assets/paper-fig/2018techimpact.png" /></td>
+    <td height="120" width="180"><img src="/assets/paper-fig/2018techimpact.png" /></td>
     <td>
       <a href="https://www.sciencedirect.com/science/article/pii/S1751157718300981">Comparing scientific and technological impact of biomedical research</a><br>
       <b>Q. Ke</b><br>
