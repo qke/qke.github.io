@@ -6,8 +6,7 @@ layout: page
 
 Postdoc
 
-[Center for Complex Network<del>s and Systems</del> Research](https://www.barabasilab.com/)<br>
-[Northeastern University](https://www.northeastern.edu/)
+[SOS+CD Lab](https://scienceofscience.org/), [School of Information Studies](https://ischool.syr.edu/)<br>
+[Syracuse University](https://www.syracuse.edu/)
 
-**Research interests**: network science, **X** of science (**X**=science, economics, sociology), statistical learning <br>
-**Office**: 177 Huntington Ave. 11th floor, Boston, MA 02115
+**Research interests**: innovation, **X** of science (**X**=science, economics, sociology), statistical learning <br>
