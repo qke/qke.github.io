@@ -10,3 +10,5 @@ Postdoc
 [Syracuse University](https://www.syracuse.edu/)
 
 **Research interests**: innovation, **X** of science (**X**=science, economics, sociology), statistical learning <br>
+
+**Email**: qke100 AT syr DOT edu
