@@ -9,6 +9,6 @@ Postdoc
 [SOS+CD Lab](https://scienceofscience.org/), [School of Information Studies](https://ischool.syr.edu/)<br>
 [Syracuse University](https://www.syracuse.edu/)
 
-**Research interests**: innovation, **X** of science (**X**=science, economics, sociology), statistical learning <br>
+**Research interests**: innovation, **X** of science (**X**=science, economics, sociology), statistical learning 
 
 **Email**: qke100 AT syr DOT edu

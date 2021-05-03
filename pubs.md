@@ -24,10 +24,6 @@ function toggle_visibility(id) {
 <b>Q. Ke</b><br>
 [arXiv:2006.15383](https://arxiv.org/abs/2006.15383) (2020)
 
-* [Neural Embeddings of Scholarly Periodicals Reveal Complex Disciplinary Organizations](https://arxiv.org/abs/2001.08199)<br>
-H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
-[arXiv:2001.08199](https://arxiv.org/abs/2001.08199) (2020)
-
 ----
 
 <br>
@@ -35,6 +31,35 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 ### Published
 
 <table>
+  <tr>
+    <td><img height="130" src="/assets/paper-fig/2021jnl.png"/></td>
+    <td>
+      <a href="https://doi.org/10.1126/sciadv.abb9004">Neural embeddings of scholarly periodicals reveal complex disciplinary organizations</a><br>
+      H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
+      <em>Science Advances</em> <strong>7</strong>, eabb9004 (2021)<br>
+      <a href="https://arxiv.org/abs/2001.08199">arXiv</a> |
+      <a href="javascript:toggle_visibility('2021jnlabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2021jnlbib')">BibTeX</a> |
+      <a href="https://figshare.com/articles/dataset/periodicals/13007650">Data</a> |
+      <a href="https://github.com/haoopeng/periodicals">Code</a>
+      <div id="2021jnlabs" style="display: none;">
+        Understanding the structure of knowledge domains is one of the foundational challenges in the science of science. Here, we propose a neural embedding technique that leverages the information contained in the citation network to obtain continuous vector representations of scientific periodicals. We demonstrate that our periodical embeddings encode nuanced relationships between periodicals and the complex disciplinary and interdisciplinary structure of science, allowing us to make cross-disciplinary analogies between periodicals. Furthermore, we show that the embeddings capture meaningful “axes” that encompass knowledge domains, such as an axis from “soft” to “hard” sciences or from “social” to “biological” sciences, which allow us to quantitatively ground periodicals on a given dimension. By offering novel quantification in the science of science, our framework may, in turn, facilitate the study of how knowledge is created and organized.<br>
+      </div>
+      <div id="2021jnlbib" style="display: none;">
+        @article{Peng2021jnl,<br>
+        author = {Peng, Hao and Ke, Qing and Budak, Ceren and Romero, Daniel M. and Ahn, Yong-Yeol},<br>
+        title = {Neural embeddings of scholarly periodicals reveal complex disciplinary organizations},<br>
+        journal = {Science Advances},<br>
+        volume = {7},<br>
+        number = {17},<br>
+        pages = {eabb9004},<br>
+        year = {2021},<br>
+        doi = {10.1126/sciadv.abb9004}<br>
+      }<br>
+      </div>
+    </td>
+  </tr>
+
   <tr>
   	<td><img height="120" src="/assets/paper-fig/2020stlink.jpg"/></td>
   	<td>
@@ -346,7 +371,7 @@ H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
 
 <br>
 
-### Other
+### Others
 
 * [Scientific birds of a feather flock together: science communication on social media rarely happens across or beyond disciplinary boundaries](http://eprints.lse.ac.uk/83921/)<br>
 <b>Q. Ke</b>, Y.-Y. Ahn, C. R. Sugimoto<br>
