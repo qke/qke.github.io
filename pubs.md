@@ -32,7 +32,7 @@ function toggle_visibility(id) {
 
 <table>
   <tr>
-    <td><img height="130" src="/assets/paper-fig/2021jnl.png"/></td>
+    <td><img height="120" src="/assets/paper-fig/2021jnl.png"/></td>
     <td>
       <a href="https://doi.org/10.1126/sciadv.abb9004">Neural embeddings of scholarly periodicals reveal complex disciplinary organizations</a><br>
       H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
