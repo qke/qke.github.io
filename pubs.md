@@ -20,6 +20,18 @@ function toggle_visibility(id) {
 
 ### Preprint
 
+* [Temporal search in the scientific space predicts breakthrough inventions](https://arxiv.org/abs/2107.09176)<br>
+C. Min, <b>Q. Ke</b><br>
+[arXiv:2107.09176](https://arxiv.org/abs/2107.09176) (2021)
+
+* [A dataset of mentorship in science with semantic and demographic estimations](https://arxiv.org/abs/2106.06487)<br>
+<b>Q. Ke</b>, L. Liang, Y. Ding, S. V. David, D. E. Acuna<br>
+[arXiv:2106.06487](https://arxiv.org/abs/2106.06487) (2021)
+
+* [Graph Neural Network Based VC Investment Success Prediction](https://arxiv.org/abs/2105.11537)<br>
+S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
+[arXiv:2105.11537](https://arxiv.org/abs/2105.11537) (2021)
+
 * [Interdisciplinary research and technological impact](https://arxiv.org/abs/2006.15383)<br>
 <b>Q. Ke</b><br>
 [arXiv:2006.15383](https://arxiv.org/abs/2006.15383) (2020)
