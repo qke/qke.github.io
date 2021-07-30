@@ -4,11 +4,8 @@ layout: page
 
 #### Qing Ke (柯庆)
 
-Postdoc
+Joining [City University of Hong Kong](https://www.cityu.edu.hk/) [School of Data Science](https://www.sdsc.cityu.edu.hk/) as an assistant professor.
 
-[SOS+CD Lab](https://scienceofscience.org/), [School of Information Studies](https://ischool.syr.edu/)<br>
-[Syracuse University](https://www.syracuse.edu/)
+**Research interests**: innovation, **X** of science (**X**=science, economics, sociology), statistical learning
 
-**Research interests**: innovation, **X** of science (**X**=science, economics, sociology), statistical learning 
-
-**Email**: qke100 AT syr DOT edu
+**Email**: q.ke AT cityu.edu.hk
