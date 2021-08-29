@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Qing Ke (柯庆)
+#### Qing Ke (柯庆)
 
 Assistant Professor<br>
 [School of Data Science](https://www.sdsc.cityu.edu.hk/)<br>
