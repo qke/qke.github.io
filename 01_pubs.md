@@ -402,3 +402,5 @@ S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
 * [Social media metrics as indicators of broader impact](https://www.oecd.org/sti/172%20-%20SugimotoOECDaltmetrics.pdf)<br>
 C. R. Sugimoto, S. Haustein, <b>Q. Ke</b>, V. Larivière<br>
 <em>OECD Blue Sky III Forum on Science and Innovation Indicators</em> (2016)
+
+<a href="/assets/pdf/Vision-based Rapid Physical Attacks Against Generalizing Snake.pdf" style="color:#FFFFFF;">Vision-based Rapid Physical Attacks Against Generalizing Snake</a>
