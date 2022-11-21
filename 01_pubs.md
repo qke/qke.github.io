@@ -24,25 +24,11 @@ function toggle_visibility(id) {
 C. Min, <b>Q. Ke</b><br>
 [arXiv:2107.09176](https://arxiv.org/abs/2107.09176) (2021)
 
-* [A dataset of mentorship in science with semantic and demographic estimations](https://arxiv.org/abs/2106.06487)<br>
-<b>Q. Ke</b>, L. Liang, Y. Ding, S. V. David, D. E. Acuna<br>
-[arXiv:2106.06487](https://arxiv.org/abs/2106.06487) (2021)<br>
-<a href="https://arxiv.org/abs/2106.06487">arXiv</a> |
-<a href="javascript:toggle_visibility('2022mentorabs')">abstract</a> |
-<a href="javascript:toggle_visibility('2022mentorbib')">BibTeX</a> |
-<a href="https://doi.org/10.5281/zenodo.4917086">Data</a> |
-<a href="https://github.com/sciosci/AFT-MAG">Code</a>
-<div id="2022mentorabs" style="display: none;">
-Mentorship in science is crucial for topic choice, career decisions, and the success of mentees and mentors. Typically, researchers who study mentorship use article co-authorship and doctoral dissertation datasets. However, available datasets of this type focus on narrow selections of fields and miss out on early career and non-publication-related interactions. Here, we describe MENTORSHIP, a crowdsourced dataset of 743176 mentorship relationships among 738989 scientists across 112 fields that avoids these shortcomings. We enrich the scientists' profiles with publication data from the Microsoft Academic Graph and "semantic" representations of research using deep learning content analysis. Because gender and race have become critical dimensions when analyzing mentorship and disparities in science, we also provide estimations of these factors. We perform extensive validations of the profile--publication matching, semantic content, and demographic inferences. We anticipate this dataset will spur the study of mentorship in science and deepen our understanding of its role in scientists' career outcomes.<br>
-</div>
-<div id="2022mentorbib" style="display: none;">
-</div>
-
 * [Graph Neural Network Based VC Investment Success Prediction](https://arxiv.org/abs/2105.11537)<br>
 S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
 [arXiv:2105.11537](https://arxiv.org/abs/2105.11537) (2021)
 
-* [Interdisciplinary research and technological impact](https://arxiv.org/abs/2006.15383)<br>
+* [Interdisciplinary research and technological impact: Evidence from biomedicine](https://arxiv.org/abs/2006.15383)<br>
 <b>Q. Ke</b><br>
 [arXiv:2006.15383](https://arxiv.org/abs/2006.15383) (2020)
 
@@ -53,6 +39,25 @@ S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
 ### Published
 
 <table>
+  <tr>
+    <td><img height="120" src=""/></td>
+    <td>
+      <a href="https://doi.org/10.1038/s41597-022-01578-x">A dataset of mentorship in bioscience with semantic and demographic estimations</a><br>
+      <b>Q. Ke</b>, L. Liang, Y. Ding, S. V. David, D. E. Acuna<br>
+      <em>Scientific Data</em> <strong>9</strong>, 467 (2022)<br>
+      <a href="https://arxiv.org/abs/2106.06487">arXiv</a> |
+      <a href="javascript:toggle_visibility('2022mentorabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2022mentorbib')">BibTeX</a> |
+      <a href="https://doi.org/10.5281/zenodo.4917086">Data</a> |
+      <a href="https://github.com/sciosci/AFT-MAG">Code</a>
+      <div id="2022mentorabs" style="display: none;">
+        Mentorship in science is crucial for topic choice, career decisions, and the success of mentees and mentors. Typically, researchers who study mentorship use article co-authorship and doctoral dissertation datasets. However, available datasets of this type focus on narrow selections of fields and miss out on early career and non-publication-related interactions. Here, we describe Mentorship, a crowdsourced dataset of 743176 mentorship relationships among 738989 scientists primarily in biosciences that avoids these shortcomings. Our dataset enriches the Academic Family Tree project by adding publication data from the Microsoft Academic Graph and “semantic” representations of research using deep learning content analysis. Because gender and race have become critical dimensions when analyzing mentorship and disparities in science, we also provide estimations of these factors. We perform extensive validations of the profile–publication matching, semantic content, and demographic inferences, which mostly cover neuroscience and biomedical sciences. We anticipate this dataset will spur the study of mentorship in science and deepen our understanding of its role in scientists’ career outcomes.<br>
+      </div>
+      <div id="2022mentorbib" style="display: none;">
+      </div>
+    </td>
+  </tr>
+
   <tr>
     <td><img height="120" src="/assets/paper-fig/2021jnl.png"/></td>
     <td>
