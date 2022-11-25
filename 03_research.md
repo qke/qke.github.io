@@ -10,4 +10,4 @@ Some on-going projects:
 * Social studies of AI
 * Evolution of science
 
-There are openings (postdocs and research assistants) for these projects. Candidates with strong system building capabilities are also welcome to apply.
+There are openings (postdocs and research assistants) for these projects. Candidates with excellent system building capabilities are also very welcome to apply.
