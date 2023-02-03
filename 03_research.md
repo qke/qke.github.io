@@ -9,6 +9,6 @@ Some on-going projects:
 * Data science and cheminformatics
 * Social studies of AI
 * Evolution of science
-* *It's in the syllabus*
+* [*It's in the syllabus*](https://thesyllabus.io/)
 
 There are openings (postdocs and research assistants) for these projects. Candidates with excellent system building capabilities are especially welcome to apply.
