@@ -28,10 +28,6 @@ C. Min, <b>Q. Ke</b><br>
 S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
 [arXiv:2105.11537](https://arxiv.org/abs/2105.11537) (2021)
 
-* [Interdisciplinary research and technological impact: Evidence from biomedicine](https://arxiv.org/abs/2006.15383)<br>
-<b>Q. Ke</b><br>
-[arXiv:2006.15383](https://arxiv.org/abs/2006.15383) (2020)
-
 ----
 
 <br>
@@ -39,6 +35,23 @@ S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
 ### Published
 
 <table>
+  <tr>
+    <td><img height="120" src=""/></td>
+    <td>
+      <a href="https://doi.org/10.1007/s11192-023-04662-0">Interdisciplinary research and technological impact: Evidence from biomedicine</a><br>
+      <b>Q. Ke</b><br>
+      <em>Scientometrics</em>  (2023)<br>
+      <a href="https://arxiv.org/abs/2006.15383">arXiv</a> |
+      <a href="javascript:toggle_visibility('2023idr')">abstract</a> |
+      <a href="javascript:toggle_visibility('2023idrbib')">BibTeX</a>
+      <div id="2023idr" style="display: none;">
+        MInterdisciplinary research (IDR) has been considered as an important source for scientific breakthroughs and as a solution to today’s complex societal challenges. While ample empirical evidence has suggested its benefits within the academia such as better creativity and higher scientific impact and visibility, its societal benefits—a key argument originally used for promoting IDR—remain relatively unexplored. Here, we study one aspect of societal benefits, that is contributing to the development of patented technologies, and examine how IDR papers are referenced as “prior art” by patents over time. We draw on a large sample of biomedical papers published in 23 years and measure the degree of interdisciplinarity of a paper using three popular indicators, namely variety, balance, and disparity. We find that papers that cites more fields (variety) and whose distributions over those cited fields are more even (balance) are more likely to receive patent citations, but both effects can be offset if papers draw upon more distant fields (disparity). These associations are consistent across different citation-window lengths. We further find that conditional on receiving patent citations, the intensity of their technological impact, as measured as both raw and quality-adjusted number of citing patents, increases with balance and disparity. Our work may have policy implications for interdisciplinary research and scientific and technological impact.<br>
+      </div>
+      <div id="2023idrbib" style="display: none;">
+      </div>
+    </td>
+  </tr>
+
   <tr>
     <td><img height="120" src=""/></td>
     <td>
