@@ -20,12 +20,16 @@ function toggle_visibility(id) {
 
 ### Preprint
 
+* [Cautious explorers generate more future academic impact](https://arxiv.org/abs/2306.16643)<br>
+X Yang, Z Ke, <b>Q Ke</b>, H Zhang, F Gao<br>
+[arXiv:2306.16643](https://arxiv.org/abs/2306.16643) (2023)
+
 * [Temporal search in the scientific space predicts breakthrough inventions](https://arxiv.org/abs/2107.09176)<br>
-C. Min, <b>Q. Ke</b><br>
+C Min, <b>Q Ke</b><br>
 [arXiv:2107.09176](https://arxiv.org/abs/2107.09176) (2021)
 
 * [Graph Neural Network Based VC Investment Success Prediction](https://arxiv.org/abs/2105.11537)<br>
-S. Lyu, S. Ling, K. Guo, H. Zhang, K. Zhang, S. Hong, <b>Q. Ke</b>, J. Gu<br>
+S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
 [arXiv:2105.11537](https://arxiv.org/abs/2105.11537) (2021)
 
 ----
