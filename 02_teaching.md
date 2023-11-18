@@ -5,6 +5,7 @@ permalink: /teaching/
 order: 2
 ---
 
+* 2023-24 Semester B:  SDSC3011 Social Data Processing and Modelling
 * 2023-24 Semester A:  SDSC3013 Introduction to Social Media Analytics
 * 2023-24 Semester A:  SDSC3016 Social Network Analysis
 * 2022-23 Semester B:  SDSC3011 Social Data Processing and Modelling
