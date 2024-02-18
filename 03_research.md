@@ -11,4 +11,4 @@ Some on-going projects:
 * Evolution of science
 * [*It's in the syllabus*](https://thesyllabus.io/)
 
-There are openings (postdocs and research assistants) for these projects. Candidates with excellent system building capabilities are especially welcome to apply.
+There are openings (postdocs and research assistants) for these projects. Candidates who have excellent system building capabilities and love to build things from scratch are especially welcome to apply.
