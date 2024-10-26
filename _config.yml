@@ -4,8 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
 url: ""
-twitter_username: quingkey
-github_username:  qke
+twitter_username: 
+github_username:  
 
 markdown: kramdown
 theme: minima
