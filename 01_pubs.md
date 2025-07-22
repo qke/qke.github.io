@@ -21,15 +21,15 @@ function toggle_visibility(id) {
 ### Preprint
 
 * [MorganBERT: Chemical substructure sequences meet language models for property prediction](https://doi.org/10.26434/chemrxiv-2025-67w3z)<br>
-**Q Ke**, J Dong<br>
+**Q Ke**, Junjie Dong<br>
 ChemRxiv (2025)
 
 * [Mapping the changing structure of science through diachronic periodical embeddings](https://arxiv.org/abs/2503.23285)<br>
-Z Lyu, **Q Ke**<br>
+Zhuoqi Lyu, **Q Ke**<br>
 arXiv:2503.23285 (2025)
 
 * [Towards understanding evolution of science through language model series](https://arxiv.org/abs/2409.09636)<br>
-J Dong, Z Lyu, **Qing Ke**<br>
+Junjie Dong, Zhuoqi Lyu, **Q Ke**<br>
 arXiv:2409.09636 (2024)
 
 * [Cautious explorers generate more future academic impact](https://arxiv.org/abs/2306.16643)<br>
@@ -55,7 +55,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2023cnorm.png" /></td>
     <td>
       <a href="https://doi.org/10.1073/pnas.2309378120">A network-based normalized impact measure reveals successful periods of scientific discovery across disciplines</a><br>
-      <b>Q. Ke</b>, A. J. Gates, A.-L. Barabási<br>
+      <b>Q Ke</b>, A J Gates, A-L Barabási<br>
       <em>PNAS</em> <strong>120</strong>, e2309378120 (2023)<br>
       <a href="javascript:toggle_visibility('2023cnromabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2023cnrombib')">BibTeX</a> |
@@ -74,7 +74,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
         doi={10.1073/pnas.2309378120}<br>
       }<br>
       </div><br><br>
-      A. J. Gates, Q. Ke, & A. L. Barabási (2024). <a href="https://doi.org/10.1073/pnas.2410675121">Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation.</a> PNAS, 121, e2410675121. -- The first law of bibliometrics: number of papers is growing exponentially every year. 
+      A J Gates, Q Ke, & A L Barabási (2024). <a href="https://doi.org/10.1073/pnas.2410675121">Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation.</a> PNAS, 121, e2410675121. -- The first law of bibliometrics: number of papers is growing exponentially every year. 
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2023idr.png" /></td>
     <td>
       <a href="https://doi.org/10.1007/s11192-023-04662-0">Interdisciplinary research and technological impact: Evidence from biomedicine</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       <em>Scientometrics</em> <strong>128</strong>, 2035–2077 (2023)<br>
       <a href="https://arxiv.org/abs/2006.15383">arXiv</a> |
       <a href="javascript:toggle_visibility('2023idrabs')">abstract</a> |
@@ -108,7 +108,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2022mentorship.png" /></td>
     <td>
       <a href="https://doi.org/10.1038/s41597-022-01578-x">A dataset of mentorship in bioscience with semantic and demographic estimations</a><br>
-      <b>Q. Ke</b>, L. Liang, Y. Ding, S. V. David, D. E. Acuna<br>
+      <b>Q Ke</b>, L Liang, Y Ding, S V David, D E Acuna<br>
       <em>Scientific Data</em> <strong>9</strong>, 467 (2022)<br>
       <a href="https://arxiv.org/abs/2106.06487">arXiv</a> |
       <a href="javascript:toggle_visibility('2022mentorabs')">abstract</a> |
