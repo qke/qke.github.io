@@ -74,7 +74,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
         doi={10.1073/pnas.2309378120}<br>
       }<br>
       </div><br><br>
-      A. J. Gates, Q. Ke, & A. L. Barabási (2024). <a href="https://doi.org/10.1073/pnas.2410675121">Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation.</a> PNAS, 121, e2410675121. -- 不值一驳
+      A. J. Gates, Q. Ke, & A. L. Barabási (2024). <a href="https://doi.org/10.1073/pnas.2410675121">Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation.</a> PNAS, 121, e2410675121. -- 不值一驳; you cannot just break the first law of bibliometrics: number of papers is growing exponentially every year. 
     </td>
   </tr>
 
