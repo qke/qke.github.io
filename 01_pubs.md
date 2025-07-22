@@ -20,6 +20,18 @@ function toggle_visibility(id) {
 
 ### Preprint
 
+* [MorganBERT: Chemical substructure sequences meet language models for property prediction](https://doi.org/10.26434/chemrxiv-2025-67w3z)<br>
+**Q Ke**, J Dong<br>
+ChemRxiv (2025)
+
+* [Mapping the changing structure of science through diachronic periodical embeddings](https://arxiv.org/abs/2503.23285)<br>
+Z Lyu, **Q Ke**<br>
+arXiv:2503.23285 (2025)
+
+* [Towards understanding evolution of science through language model series](https://arxiv.org/abs/2409.09636)<br>
+J Dong, Z Lyu, **Qing Ke**<br>
+arXiv:2409.09636 (2024)
+
 * [Cautious explorers generate more future academic impact](https://arxiv.org/abs/2306.16643)<br>
 X Yang, Z Ke, <b>Q Ke</b>, H Zhang, F Gao<br>
 [arXiv:2306.16643](https://arxiv.org/abs/2306.16643) (2023)
