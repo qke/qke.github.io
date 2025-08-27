@@ -26,11 +26,11 @@ ChemRxiv (2025)
 
 * [Mapping the changing structure of science through diachronic periodical embeddings](https://arxiv.org/abs/2503.23285)<br>
 Zhuoqi Lyu, **Q Ke**<br>
-arXiv:2503.23285 (2025)
+[arXiv:2503.23285](https://arxiv.org/abs/2503.23285) (2025)
 
 * [Towards understanding evolution of science through language model series](https://arxiv.org/abs/2409.09636)<br>
 Junjie Dong, Zhuoqi Lyu, **Q Ke**<br>
-arXiv:2409.09636 (2024)
+[arXiv:2409.09636](https://arxiv.org/abs/2409.09636) (2024)
 
 * [Cautious explorers generate more future academic impact](https://arxiv.org/abs/2306.16643)<br>
 X Yang, Z Ke, <b>Q Ke</b>, H Zhang, F Gao<br>
@@ -40,10 +40,6 @@ X Yang, Z Ke, <b>Q Ke</b>, H Zhang, F Gao<br>
 C Min, <b>Q Ke</b><br>
 [arXiv:2107.09176](https://arxiv.org/abs/2107.09176) (2021)
 
-* [Graph Neural Network Based VC Investment Success Prediction](https://arxiv.org/abs/2105.11537)<br>
-S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
-[arXiv:2105.11537](https://arxiv.org/abs/2105.11537) (2021)
-
 ----
 
 <br>
@@ -52,10 +48,54 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
 
 <table>
   <tr>
+    <td><img src="" /></td>
+    <td>
+      <a href="https://doi.org/10.1145/3763001">Help me screen: Analyzing and predicting the success of start-ups in dynamic venture capital networks</a><br>
+      S Lyu, X Li, S Hong, <b>Q Ke</b>, J Gu, K Zhang, H Zhang<br>
+      <em>ACM Transactions on Intelligent Systems and Technology</em> <strong></strong> (2025)<br>
+      <a href="https://arxiv.org/abs/2105.11537">arXiv</a> |
+      <a href="javascript:toggle_visibility('2025helpabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2025helpbib')">BibTeX</a> 
+      <div id="2025helpabs" style="display: none;">
+        Most start-ups fail, and early-stage ventures face even lower survival rates. Identifying high-potential start-ups remains a critical challenge for venture capital (VC) investors and policymakers. While predictive models exist, the evolving relationships between VC investors, start-ups, and management teams in dynamic networks are underexplored. We propose a method to predict whether a start-up will succeed within five years of its first funding round. Using a 40-year global VC dataset, we model the VC ecosystem as a dynamic bipartite network linking start-ups to individuals (investors/managers). Our approach incrementally updates graph embeddings through unsupervised self-attention to incorporate new nodes, edges, and their neighbors. Node embeddings are further fine-tuned via link prediction and classification tasks, while temporal dependencies are captured to form sequential representations. The model identifies early-stage start-ups with twice the success likelihood of those chosen by professional investors. Key factors including networking and education align with VC literature. Additionally, we provide model complexity analysis and open-source our implementation to support practical applications and future research.<br>
+      </div>
+      <div id="2025helpbib" style="display: none;">
+        
+      </div><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="" /></td>
+    <td>
+      <a href="https://doi.org/10.1016/j.ipm.2024.103718">Decoding the writing styles of disciplines: A large-scale quantitative analysis</a><br>
+      S Dong, J Mao, <b>Q Ke</b>, L Pei<br>
+      <em>Information Processing & Management</em> <strong>61</strong>, 103718 (2024)<br>
+      <a href="javascript:toggle_visibility('2024decodingabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2024decodingbib')">BibTeX</a> 
+      <div id="2024decodingabs" style="display: none;">
+        Disciplinary writing style stems from the practice of science, reflecting the scientific culture. This study aims to explore the differences and evolution of scientific writing styles from the perspective of disciplines. A large-scale quantitative analysis was conducted over 14 million abstracts from the Microsoft Academic Graph (MAG) database across eight soft and hard disciplines. Represented by a comprehensive set of 14 symbolic, lexical, syntactic, structural, and readability features, the evolution of disciplinary writing styles was analyzed over 30 years. Interpretable machine learning methods were performed to test the discernibility of writing styles across disciplines and disclose their linguistic differences. Our findings reveal the linguistic features of soft disciplines (Art, Philosophy, and Sociology) and Mathematics generally keep stabilized, and a general trend of increasing linguistic complexity was observed for Biology, Chemistry, Computer Science, and Psychology. The good performance of the pairwise writing style classifiers indicates a well discriminability of the writing styles between disciplines. A correlation between the performance of classifiers and the distance between disciplines was identified. The feature contribution analysis using SHapley Additive exPlanations (SHAP) and Kendall's Tau rank correlation revealed the detailed commonalities and disparities in disciplines’ linguistic features. This study provides profound insights into the understanding of scientific writing and norms, which further helps develop useful tools for academic text analysis, foster interdisciplinary communication, and assist educators to construct discipline-specific writing guidance.<br>
+      </div>
+      <div id="2024decodingbib" style="display: none;">
+        @article{dong2024decoding,<br>
+          title={Decoding the writing styles of disciplines: A large-scale quantitative analysis},<br>
+          author={Dong, Shuyi and Mao, Jin and Ke, Qing and Pei, Lei},<br>
+          journal={Information Processing \& Management},<br>
+          volume={61},<br>
+          number={4},<br>
+          pages={103718},<br>
+          year={2024},<br>
+          doi={10.1016/j.ipm.2024.103718}<br>
+        }<br>
+      </div><br>
+    </td>
+  </tr>
+
+  <tr>
     <td><img src="/assets/paper-fig/2023cnorm.png" /></td>
     <td>
       <a href="https://doi.org/10.1073/pnas.2309378120">A network-based normalized impact measure reveals successful periods of scientific discovery across disciplines</a><br>
-      <b>Q Ke</b>, A J Gates, A-L Barabási<br>
+      <b>Q Ke</b>, AJ Gates, AL Barabási<br>
       <em>PNAS</em> <strong>120</strong>, e2309378120 (2023)<br>
       <a href="javascript:toggle_visibility('2023cnromabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2023cnrombib')">BibTeX</a> |
@@ -74,7 +114,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
         doi={10.1073/pnas.2309378120}<br>
       }<br>
       </div><br><br>
-      A J Gates, Q Ke, & A L Barabási (2024). <a href="https://doi.org/10.1073/pnas.2410675121">Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation.</a> PNAS, 121, e2410675121. -- The first law of bibliometrics: number of papers is growing exponentially every year. 
+      AJ Gates, Q Ke, & AL Barabási (2024). <a href="https://doi.org/10.1073/pnas.2410675121">Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation.</a> PNAS, 121, e2410675121. -- The first law of bibliometrics: number of papers is growing exponentially every year. 
     </td>
   </tr>
 
@@ -108,7 +148,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2022mentorship.png" /></td>
     <td>
       <a href="https://doi.org/10.1038/s41597-022-01578-x">A dataset of mentorship in bioscience with semantic and demographic estimations</a><br>
-      <b>Q Ke</b>, L Liang, Y Ding, S V David, D E Acuna<br>
+      <b>Q Ke</b>, L Liang, Y Ding, SV David, DE Acuna<br>
       <em>Scientific Data</em> <strong>9</strong>, 467 (2022)<br>
       <a href="https://arxiv.org/abs/2106.06487">arXiv</a> |
       <a href="javascript:toggle_visibility('2022mentorabs')">abstract</a> |
@@ -136,7 +176,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2021jnl.png" /></td>
     <td>
       <a href="https://doi.org/10.1126/sciadv.abb9004">Neural embeddings of scholarly periodicals reveal complex disciplinary organizations</a><br>
-      H. Peng, <b>Q. Ke</b>, C. Budak, D. M. Romero, Y.-Y. Ahn<br>
+      H Peng, <b>Q Ke</b>, C Budak, DM Romero, YY Ahn<br>
       <em>Science Advances</em> <strong>7</strong>, eabb9004 (2021)<br>
       <a href="https://arxiv.org/abs/2001.08199">arXiv</a> |
       <a href="javascript:toggle_visibility('2021jnlabs')">abstract</a> |
@@ -165,7 +205,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
   	<td><img src="/assets/paper-fig/2020stlink.jpg" /></td>
   	<td>
   	  <a href="https://doi.org/10.1016/j.joi.2020.101074">An analysis of the evolution of science-technology linkage in biomedicine</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       <em>Journal of Informetrics</em> <strong>14</strong>, 101074 (2020)<br>
       <a href="https://arxiv.org/abs/1903.10610">arXiv</a> |
       <a href="javascript:toggle_visibility('2020stevoabs')">abstract</a> |
@@ -191,7 +231,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
   	<td><img src="/assets/paper-fig/2020tech.jpg" /></td>
   	<td>
   	  <a href="https://doi.org/10.1016/j.respol.2020.104071">Technological impact of biomedical research: The role of basicness and novelty</a><br>
-  	  <b>Q. Ke</b><br>
+  	  <b>Q Ke</b><br>
   	  <em>Research Policy</em> <strong>49</strong>, 104071 (2020)<br>
   	  <a href="https://arxiv.org/abs/2006.02472">arXiv</a> |
   	  <a href="javascript:toggle_visibility('2020basicabs')">abstract</a> |
@@ -217,7 +257,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2020lsc.png" /></td>
     <td>
       <a href="https://doi.org/10.1016/j.joi.2019.100998">The citation disadvantage of clinical research</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       <em>Journal of Informetrics</em> <strong>14</strong>, 100998 (2020)<br>
       <a href="https://arxiv.org/abs/1912.01527">arXiv</a> |
       <a href="javascript:toggle_visibility('2020citationabs')">abstract</a> |
@@ -243,7 +283,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="https://media.nature.com/lw800/magazine-assets/d41586-019-03308-7/d41586-019-03308-7_17345482.jpg" /></td>
     <td>
       <a href="https://doi.org/10.1038/d41586-019-03308-7">Nature's reach: narrow work has broad impact</a><br>
-      A. J. Gates, <b>Q. Ke</b>, O. Varol, A.-L. Barabási<br>
+      AJ Gates, <b>Q Ke</b>, O Varol, AL Barabási<br>
       <em>Nature</em> <strong>575</strong>, 32-34 (2019)<br>
       <a href="javascript:toggle_visibility('2019naturebib')">BibTeX</a> |
       <a href="https://www.youtube.com/watch?v=GW4s58u8PZo">video</a> |
@@ -268,7 +308,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2019trans.png" /></td>
     <td>
       <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b">Identifying translational science through embeddings of controlled vocabularies</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       <em>Journal of the American Medical Informatics Association</em> <strong>26</strong>, 516-523 (2019)<br>
       <a href="https://arxiv.org/abs/1812.10609">arXiv</a> |
       <a href="javascript:toggle_visibility('2018transabs')">abstract</a> |
@@ -299,7 +339,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2018techimpact.png" /></td>
     <td>
       <a href="https://doi.org/10.1016/j.joi.2018.06.010">Comparing scientific and technological impact of biomedical research</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       <em>Journal of Informetrics</em> <strong>12</strong>, 706-717 (2018)<br>
       <a href="https://arxiv.org/abs/1804.04105">arXiv</a> |
       <a href="javascript:toggle_visibility('2018techimpactabs')">abstract</a> |
@@ -326,7 +366,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2017providerentire.png" /></td>
     <td>
       <a href="https://doi.org/10.1145/3134692">Service providers of the sharing economy: Who joins and who benefits?</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       <em>Proceedings of the ACM on Human-Computer Interaction</em> <strong>1</strong>, 57 (2017)<br>
       <a href="https://arxiv.org/abs/1709.07580">arXiv</a> |
       <a href="javascript:toggle_visibility('2017providerabs')">abstract</a> |
@@ -354,7 +394,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2017airbnb.png" /></td>
     <td>
       <a href="https://doi.org/10.1145/3091478.3091504">Sharing means renting?: An entire-marketplace analysis of Airbnb</a><br>
-      <b>Q. Ke</b><br>
+      <b>Q Ke</b><br>
       In <em>Proceedings of the 2017 ACM on Web Science Conference</em>, 131-139.<br>
       <a href="http://arxiv.org/abs/1701.01645">arXiv</a> |
       <a href="javascript:toggle_visibility('2017airbnbabs')">abstract</a> |
@@ -379,7 +419,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2017scientist.png" /></td>
     <td>
       <a href="https://doi.org/10.1371/journal.pone.0175368">A systematic identification and analysis of scientists on Twitter</a><br>
-      <b>Q. Ke</b>, Y.-Y. Ahn, C. R. Sugimoto<br>
+      <b>Q Ke</b>, YY Ahn, CR Sugimoto<br>
       <em>PLoS ONE</em> <strong>12</strong>, e0175368 (2017)<br>
       <a href="https://arxiv.org/abs/1608.06229">arXiv</a> |
       <a href="javascript:toggle_visibility('2017scientistabs')">abstract</a> |
@@ -409,7 +449,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td><img src="/assets/paper-fig/2015beauty.jpg" /></td>
     <td>
       <a href="https://doi.org/10.1073/pnas.1424329112">Defining and identifying Sleeping Beauties in science</a><br>
-      <b>Q. Ke</b>, E. Ferrara, F. Radicchi, A. Flammini<br>
+      <b>Q Ke</b>, E Ferrara, F Radicchi, A Flammini<br>
       <em>PNAS</em> <strong>112</strong>, 7426-7431 (2015)<br>
       <a href="https://arxiv.org/abs/1505.06454">arXiv</a> |
       <a href="javascript:toggle_visibility('2015beautyabs')">abstract</a> |
@@ -441,7 +481,7 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
     <td width="160"><img src="/assets/paper-fig/2014tie.png" /></td>
     <td>
       <a href="https://doi.org/10.1103/PhysRevE.90.032804">Tie strength distribution in scientific collaboration networks</a><br>
-      <b>Q. Ke</b>, Y.-Y. Ahn<br>
+      <b>Q Ke</b>, YY Ahn<br>
       <em>Physical Review E</em> <strong>90</strong>, 032804 (2014)<br>
       <a href="https://arxiv.org/abs/1401.5027">arXiv</a> |
       <a href="javascript:toggle_visibility('2014tieabs')">abstract</a> |
@@ -475,9 +515,9 @@ S Lyu, S Ling, K Guo, H Zhang, K Zhang, S Hong, <b>Q Ke</b>, J Gu<br>
 ### Others
 
 * [Scientific birds of a feather flock together: science communication on social media rarely happens across or beyond disciplinary boundaries](https://blogs.lse.ac.uk/impactofsocialsciences/2017/07/12/scientific-birds-of-a-feather-flock-together-science-communication-on-social-media-rarely-happens-across-or-beyond-disciplinary-boundaries/)<br>
-<b>Q. Ke</b>, Y.-Y. Ahn, C. R. Sugimoto<br>
+<b>Q Ke</b>, YY Ahn, CR Sugimoto<br>
 <em>Impact of Social Sciences Blog</em> (2017)
 
 * [Social media metrics as indicators of broader impact](https://web-archive.oecd.org/2016-10-20/418029-172%20-%20SugimotoOECDaltmetrics.pdf)<br>
-C. R. Sugimoto, S. Haustein, <b>Q. Ke</b>, V. Larivière<br>
+CR Sugimoto, S Haustein, <b>Q Ke</b>, V Larivière<br>
 <em>OECD Blue Sky III Forum on Science and Innovation Indicators</em> (2016)
