@@ -52,7 +52,7 @@ C Min, <b>Q Ke</b><br>
       <a href="https://arxiv.org/abs/2503.23285">arXiv</a> |
       <a href="javascript:toggle_visibility('2025mappingabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2025mappingbib')">BibTeX</a> |
-      <a href="javascript:toggle_visibility('2025mappingbib')">code</a> 
+      <a href="https://github.com/netknowledge/diachronic-p2v">code</a> 
       <div id="2025mappingabs" style="display: none;">
         Charting the changing landscape of scientific research is a fundamental challenge in the science of science. We develop diachronic embeddings of scholarly periodicals to quantify “semantic changes” of periodicals across decades, allowing us to track the evolution of research topics and identify rapidly developing fields. By mapping periodicals within a physical-life-health triangle, we reveal an evolving interdisciplinary science landscape, finding an overall trend toward specialization for most periodicals but increasing interdisciplinarity for bioscience periodicals. Analyzing a periodical’s trajectory within this triangle over time allows us to visualize how its research focus shifts. Furthermore, by monitoring the formation of local clusters of periodicals, we can identify emerging research topics such as AIDS research and nanotechnology in the 1980s. Our work offers novel quantification in the science of science and provides a quantitative lens to examine the evolution of science, which may facilitate future investigations into the emergence and development of research fields.<br>
       </div>
