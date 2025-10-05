@@ -24,10 +24,6 @@ function toggle_visibility(id) {
 **Q Ke**, Junjie Dong<br>
 ChemRxiv (2025)
 
-* [Mapping the changing structure of science through diachronic periodical embeddings](https://arxiv.org/abs/2503.23285)<br>
-Zhuoqi Lyu, **Q Ke**<br>
-[arXiv:2503.23285](https://arxiv.org/abs/2503.23285) (2025)
-
 * [Towards understanding evolution of science through language model series](https://arxiv.org/abs/2409.09636)<br>
 Junjie Dong, Zhuoqi Lyu, **Q Ke**<br>
 [arXiv:2409.09636](https://arxiv.org/abs/2409.09636) (2024)
@@ -47,6 +43,33 @@ C Min, <b>Q Ke</b><br>
 ### Published
 
 <table>
+  <tr>
+    <td><img src="" /></td>
+    <td>
+      <a href="https://doi.org/10.1016/j.chaos.2025.117295">Mapping the changing structure of science through diachronic periodical embeddings</a><br>
+      Zhuoqi Lyu, <b>Q Ke</b><br>
+      <em>Chaos, Solitons & Fractals</em> <strong>201</strong>, 117295 (2025)<br>
+      <a href="https://arxiv.org/abs/2503.23285">arXiv</a> |
+      <a href="javascript:toggle_visibility('2025mappingabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2025mappingbib')">BibTeX</a> |
+      <a href="javascript:toggle_visibility('2025mappingbib')">code</a> 
+      <div id="2025mappingabs" style="display: none;">
+        Charting the changing landscape of scientific research is a fundamental challenge in the science of science. We develop diachronic embeddings of scholarly periodicals to quantify “semantic changes” of periodicals across decades, allowing us to track the evolution of research topics and identify rapidly developing fields. By mapping periodicals within a physical-life-health triangle, we reveal an evolving interdisciplinary science landscape, finding an overall trend toward specialization for most periodicals but increasing interdisciplinarity for bioscience periodicals. Analyzing a periodical’s trajectory within this triangle over time allows us to visualize how its research focus shifts. Furthermore, by monitoring the formation of local clusters of periodicals, we can identify emerging research topics such as AIDS research and nanotechnology in the 1980s. Our work offers novel quantification in the science of science and provides a quantitative lens to examine the evolution of science, which may facilitate future investigations into the emergence and development of research fields.<br>
+      </div>
+      <div id="2025mappingbib" style="display: none;">
+        @article{lyu2025mapping,<br>
+          title={Mapping the changing structure of science through diachronic periodical embeddings},<br>
+          author={Lyu, Zhuoqi and Ke, Qing},<br>
+          journal={Chaos, Solitons \& Fractals},<br>
+          volume={201},<br>
+          pages={117295},<br>
+          year={2025},<br>
+          doi={10.1016/j.chaos.2025.117295}<br>
+        }<br>
+      </div><br>
+    </td>
+  </tr>
+
   <tr>
     <td><img src="" /></td>
     <td>
