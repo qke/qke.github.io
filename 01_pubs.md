@@ -44,7 +44,34 @@ C Min, <b>Q Ke</b><br>
 
 <table>
   <tr>
-    <td><img src="" /></td>
+    <td><img src="/assets/paper-fig/2025country_atypicality_rank.png" /></td>
+    <td>
+      <a href="https://doi.org/10.1016/j.respol.2025.105345">The geography of novel and atypical research</a><br>
+      <b>Q Ke</b>, Tianxing Pan, J Mao<br>
+      <em>Research Policy</em> <strong>55</strong>, 105345 (2026)<br>
+      <a href="https://arxiv.org/abs/">arXiv</a> |
+      <a href="javascript:toggle_visibility('2025geographyabs')">abstract</a> |
+      <a href="javascript:toggle_visibility('2025geographybib')">BibTeX</a> |
+      <a href="https://zenodo.org/records/15250119">data & code</a> 
+      <div id="2025geographyabs" style="display: none;">
+        The production of knowledge has become increasingly a global endeavor. Yet, location related factors, such as local working environment and national policy designs, may continue to affect what kind of science is being pursued. Here we examine the geography of the production of creative science by country, through the lens of novelty and atypicality proposed in Uzzi et al. (2013). We quantify a country’s representativeness in novel and atypical science, finding persistent differences in propensity to generate creative works, even among developed countries that are large producers in science. We further cluster countries based on how their tendency to publish novel science changes over time, identifying one group of emerging countries. Our analyses point out the recent emergence of China not only as a large producer in science but also as a leader that disproportionately produces more novel and atypical research. Discipline specific analysis indicates that China’s over-production of atypical science is limited to a few disciplines, especially its most prolific ones like materials science and chemistry.<br>
+      </div>
+      <div id="2025geographybib" style="display: none;">
+        @article{ke2025geography,<br>
+          title={The geography of novel and atypical research},<br>
+          author={Ke, Qing and Pan, Tianxing and Mao, Jin},<br>
+          journal={Research Policy},<br>
+          volume={55},<br>
+          pages={105345},<br>
+          year={2026},<br>
+          doi={10.1016/j.respol.2025.105345}<br>
+        }<br>
+      </div><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="/assets/paper-fig/2025semantic_change.png" /></td>
     <td>
       <a href="https://doi.org/10.1016/j.chaos.2025.117295">Mapping the changing structure of science through diachronic periodical embeddings</a><br>
       Zhuoqi Lyu, <b>Q Ke</b><br>
