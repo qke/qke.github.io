@@ -103,7 +103,7 @@ C Min, <b>Q Ke</b><br>
     <td>
       <a href="https://doi.org/10.1145/3763001">Help me screen: Analyzing and predicting the success of start-ups in dynamic venture capital networks</a><br>
       S Lyu, X Li, S Hong, <b>Q Ke</b>, J Gu, K Zhang, H Zhang<br>
-      <em>ACM Transactions on Intelligent Systems and Technology</em> <strong></strong> (2025)<br>
+      <em>ACM Transactions on Intelligent Systems and Technology</em> <strong>16</strong>, 129 (2025)<br>
       <a href="https://arxiv.org/abs/2105.11537">arXiv</a> |
       <a href="javascript:toggle_visibility('2025helpabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2025helpbib')">BibTeX</a> 
@@ -111,7 +111,16 @@ C Min, <b>Q Ke</b><br>
         Most start-ups fail, and early-stage ventures face even lower survival rates. Identifying high-potential start-ups remains a critical challenge for venture capital (VC) investors and policymakers. While predictive models exist, the evolving relationships between VC investors, start-ups, and management teams in dynamic networks are underexplored. We propose a method to predict whether a start-up will succeed within five years of its first funding round. Using a 40-year global VC dataset, we model the VC ecosystem as a dynamic bipartite network linking start-ups to individuals (investors/managers). Our approach incrementally updates graph embeddings through unsupervised self-attention to incorporate new nodes, edges, and their neighbors. Node embeddings are further fine-tuned via link prediction and classification tasks, while temporal dependencies are captured to form sequential representations. The model identifies early-stage start-ups with twice the success likelihood of those chosen by professional investors. Key factors including networking and education align with VC literature. Additionally, we provide model complexity analysis and open-source our implementation to support practical applications and future research.<br>
       </div>
       <div id="2025helpbib" style="display: none;">
-        
+        @article{lyu2025help,<br>
+          title={Help Me Screen: Analyzing and Predicting the Success of Start-ups in Dynamic Venture Capital Networks},<br>
+          author={Lyu, Shiwei and Li, Xiaofeng and Hong, Suting and Ke, Qing and Gu, Jinjie and Zhang, Kunpeng and Zhang, Haipeng},<br>
+          journal={ACM Transactions on Intelligent Systems and Technology},<br>
+          volume={16},<br>
+          number={6},<br>
+          articleno={129},<br>
+          year={2025},<br>
+          doi={10.1145/3763001}<br>
+        }<br>
       </div><br>
     </td>
   </tr>
