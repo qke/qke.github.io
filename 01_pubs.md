@@ -13,6 +13,7 @@ function toggle_visibility(id) {
 
 * [Google Scholar](https://scholar.google.com/citations?user=CSKDXt4AAAAJ&hl=en)
 * [ORCID ID](https://orcid.org/0000-0002-2945-5274)
+* [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=56366264000)
 
 ----
 
