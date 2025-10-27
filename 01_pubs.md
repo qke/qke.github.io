@@ -50,7 +50,7 @@ C Min, <b>Q Ke</b><br>
       <a href="https://doi.org/10.1016/j.respol.2025.105345">The geography of novel and atypical research</a><br>
       <b>Q Ke</b>, Tianxing Pan, J Mao<br>
       <em>Research Policy</em> <strong>55</strong>, 105345 (2026)<br>
-      <a href="https://arxiv.org/abs/">arXiv</a> |
+      <a href="https://arxiv.org/abs/2510.20827">arXiv</a> |
       <a href="javascript:toggle_visibility('2025geographyabs')">abstract</a> |
       <a href="javascript:toggle_visibility('2025geographybib')">BibTeX</a> |
       <a href="https://zenodo.org/records/15250119">data & code</a> 
