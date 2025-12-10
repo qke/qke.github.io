@@ -8,8 +8,9 @@ order: 2
 
 |   |   |   |
 |---|---|---|
-| 2025-26 |
-|         |
+| 2025-26 | Semester B @ CityUHK (DG) | SDSC6009 Machine Learning at Scale |
+|         | Semester B | SDSC3011 Social Data Processing and Modelling | 
+|         | Semester B | SDSC3016 Social Network Analysis |
 | 2024-25 | Semester B @ CityUHK (DG) | SDSC5003 Storing and Retrieving Data |
 |         | Semester B | SDSC3011 Social Data Processing and Modelling |
 |         | Semester A | SDSC3013 Introduction to Social Media Analytics |
