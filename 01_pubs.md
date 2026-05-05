@@ -21,6 +21,18 @@ function toggle_visibility(id) {
 
 ### Preprint
 
+* [COMO: Closed-Loop Optical Molecule Recognition with Minimum Risk Training](https://arxiv.org/abs/2604.23546)<br>
+Zhuoqi Lyu, **Q Ke**<br>
+[arXiv:2604.23546](https://arxiv.org/abs/2604.23546) (2026)
+
+* [Not too long do read: Evaluating LLM-generated extreme scientific summaries](https://arxiv.org/abs/2512.23206)<br>
+Zhuoqi Lyu, **Q Ke**<br>
+[arXiv:2512.23206](https://arxiv.org/abs/2512.23206) (2025)
+
+* [Periodical embeddings uncover hidden interdisciplinary patterns in the subject classification scheme of science](https://arxiv.org/abs/2512.22524)<br>
+Zhuoqi Lyu, **Q Ke**<br>
+[arXiv:2512.22524](https://arxiv.org/abs/2512.22524) (2025)
+
 * [MorganBERT: Chemical substructure sequences meet language models for property prediction](https://doi.org/10.26434/chemrxiv-2025-67w3z)<br>
 **Q Ke**, Junjie Dong<br>
 ChemRxiv (2025)
