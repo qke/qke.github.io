@@ -23,7 +23,11 @@ function toggle_visibility(id) {
 
 * [COMO: Closed-Loop Optical Molecule Recognition with Minimum Risk Training](https://arxiv.org/abs/2604.23546)<br>
 Zhuoqi Lyu, **Q Ke**<br>
-[arXiv:2604.23546](https://arxiv.org/abs/2604.23546) (2026)
+(2026)<br>
+[arXiv](https://arxiv.org/abs/2604.23546)  |
+[models & data](https://huggingface.co/Keylab/COMO) | 
+[como-ocsr package](https://pypi.org/project/como-ocsr/) | 
+[Github](https://github.com/netknowledge/COMO)
 
 * [Not too long do read: Evaluating LLM-generated extreme scientific summaries](https://arxiv.org/abs/2512.23206)<br>
 Zhuoqi Lyu, **Q Ke**<br>
