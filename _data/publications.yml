@@ -1,0 +1,259 @@
+- year: 2026
+  papers:
+    - title: "Conservative adventurers have more future academic impact"
+      authors: "X Yang, Z Ke, X Xiao, <b>Q Ke</b>, H Zhang, F Gao"
+      venue: "Scientometrics"
+      volume: ""
+      pages: ""
+      doi: ""
+      image: ""
+      links:
+        arxiv: "https://arxiv.org/abs/2306.16643"
+
+    - title: "Towards understanding evolution of science through language model series"
+      authors: "Junjie Dong, Zhuoqi Lyu, <b>Q Ke</b>"
+      venue: "ACM Transactions on Intelligent Systems and Technology"
+      volume: "17"
+      pages: "114"
+      doi: "https://doi.org/10.1145/3821210"
+      image: "/assets/paper-fig/2026word_prob_sent1.png"
+      links:
+        arxiv: "https://arxiv.org/abs/2409.09636"
+
+    - title: "The geography of novel and atypical research"
+      authors: "<b>Q Ke</b>, Tianxing Pan, J Mao"
+      venue: "Research Policy"
+      volume: "55"
+      pages: "105345"
+      doi: "https://doi.org/10.1016/j.respol.2025.105345"
+      image: "/assets/paper-fig/2025country_atypicality_rank.png"
+      links:
+        arxiv: "https://arxiv.org/abs/2510.20827"
+        data: "https://zenodo.org/records/15250119"
+        code: "https://zenodo.org/records/15250119"
+
+- year: 2025
+  papers:
+    - title: "Mapping the changing structure of science through diachronic periodical embeddings"
+      authors: "Zhuoqi Lyu, <b>Q Ke</b>"
+      venue: "Chaos, Solitons & Fractals"
+      volume: "201"
+      pages: "117295"
+      doi: "https://doi.org/10.1016/j.chaos.2025.117295"
+      image: "/assets/paper-fig/2025semantic_change.png"
+      links:
+        arxiv: "https://arxiv.org/abs/2503.23285"
+        code: "https://github.com/netknowledge/diachronic-p2v"
+
+    - title: "Help me screen: Analyzing and predicting the success of start-ups in dynamic venture capital networks"
+      authors: "S Lyu, X Li, S Hong, <b>Q Ke</b>, J Gu, K Zhang, H Zhang"
+      venue: "ACM Transactions on Intelligent Systems and Technology"
+      volume: "16"
+      pages: "129"
+      doi: "https://doi.org/10.1145/3763001"
+      image: ""
+      links:
+        arxiv: "https://arxiv.org/abs/2105.11537"
+
+- year: 2024
+  papers:
+    - title: "Decoding the writing styles of disciplines: A large-scale quantitative analysis"
+      authors: "S Dong, J Mao, <b>Q Ke</b>, L Pei"
+      venue: "Information Processing & Management"
+      volume: "61"
+      pages: "103718"
+      doi: "https://doi.org/10.1016/j.ipm.2024.103718"
+      image: ""
+
+    - title: "Reply to Vaccario et al.: The role of baselines in fair and unbiased citation metric evaluation."
+      authors: "AJ Gates, Q Ke, AL Barabási"
+      venue: "PNAS"
+      volume: "121"
+      pages: "e2410675121"
+      doi: "https://doi.org/10.1073/pnas.2410675121"
+      image: ""
+      comments: "The first law of bibliometrics: number of papers is growing exponentially every year"
+
+- year: 2023
+  papers:
+    - title: "A network-based normalized impact measure reveals successful periods of scientific discovery across disciplines"
+      authors: "<b>Q Ke</b>, AJ Gates, AL Barabási"
+      venue: "PNAS"
+      volume: "120"
+      pages: "e2309378120"
+      doi: "https://doi.org/10.1073/pnas.2309378120"
+      image: "/assets/paper-fig/2023cnorm.png"
+      links:
+        cover: "https://www.pnas.org/toc/pnas/120/48"
+
+    - title: "Interdisciplinary research and technological impact: Evidence from biomedicine"
+      authors: "<b>Q Ke</b>"
+      venue: "Scientometrics"
+      volume: "128"
+      pages: "2035–2077"
+      doi: "https://doi.org/10.1007/s11192-023-04662-0"
+      image: "/assets/paper-fig/2023idr.png"
+      links:
+          arxiv: "https://arxiv.org/abs/2006.1538"
+
+- year: 2022
+  papers:
+    - title: "A dataset of mentorship in bioscience with semantic and demographic estimations"
+      authors: "<b>Q Ke</b>, L Liang, Y Ding, SV David, DE Acuna"
+      venue: "Scientific Data"
+      volume: "9"
+      pages: "467"
+      doi: "https://doi.org/10.1038/s41597-022-01578-x"
+      image: "/assets/paper-fig/2022mentorship.png"
+      links:
+          arxiv: "https://arxiv.org/abs/2106.06487"
+          data: "https://doi.org/10.5281/zenodo.4917086"
+          code: "https://github.com/sciosci/AFT-MAG"
+
+- year: 2021
+  papers:
+    - title: "Neural embeddings of scholarly periodicals reveal complex disciplinary organizations"
+      authors: "H Peng, <b>Q Ke</b>, C Budak, DM Romero, YY Ahn"
+      venue: "Science Advances"
+      volume: "7"
+      pages: "eabb9004"
+      doi: "https://doi.org/10.1126/sciadv.abb900"
+      image: "/assets/paper-fig/2021jnl.png"
+      links:
+          arxiv: "https://arxiv.org/abs/2001.08199"
+          data: "https://figshare.com/articles/dataset/periodicals/13007650"
+          code: "https://github.com/haoopeng/periodicals"
+
+- year: 2020
+  papers:
+    - title: "An analysis of the evolution of science-technology linkage in biomedicine"
+      authors: "<b>Q Ke</b>"
+      venue: "Journal of Informetrics"
+      volume: "14"
+      pages: "101074"
+      doi: "https://doi.org/10.1016/j.joi.2020.101074"
+      image: "/assets/paper-fig/2020stlink.jpg"
+      links:
+          arxiv: "https://arxiv.org/abs/1903.10610"
+
+    - title: "Technological impact of biomedical research: The role of basicness and novelty"
+      authors: "<b>Q Ke</b>"
+      venue: "Research Policy"
+      volume: "49"
+      pages: "104071"
+      doi: "https://doi.org/10.1016/j.respol.2020.104071"
+      image: "/assets/paper-fig/2020tech.jpg"
+      links:
+          arxiv: "https://arxiv.org/abs/2006.02472"
+
+    - title: "The citation disadvantage of clinical research"
+      authors: "<b>Q Ke</b>"
+      venue: "Journal of Informetrics"
+      volume: "14"
+      pages: "100998"
+      doi: "https://doi.org/10.1016/j.joi.2019.100998"
+      image: "/assets/paper-fig/2020lsc.png"
+      links:
+          arxiv: "https://arxiv.org/abs/1912.01527"
+
+- year: 2019
+  papers:
+    - title: "Nature's reach: narrow work has broad impact"
+      authors: "AJ Gates, <b>Q Ke</b>, O Varol, AL Barabási"
+      venue: "Nature"
+      volume: "575"
+      pages: "32-34"
+      doi: "https://doi.org/10.1038/d41586-019-03308-7"
+      image: "https://media.nature.com/lw800/magazine-assets/d41586-019-03308-7/d41586-019-03308-7_17345482.jpg"
+      links:
+          video: "https://www.youtube.com/watch?v=GW4s58u8PZo"
+          cover: "https://www.nature.com/immersive/d42859-019-00121-0/public/pdf/nature-150-cover.pdf"
+          interactive: "https://www.nature.com/immersive/d41586-019-03165-4/index.html"
+          webby: "https://winners.webbyawards.com/2020/websites/general-websites/netart/122366/150-years-of-nature"
+
+    - title: "Identifying translational science through embeddings of controlled vocabularies"
+      authors: "<b>Q Ke</b>"
+      venue: "Journal of the American Medical Informatics Association"
+      volume: "26"
+      pages: "516-523"
+      doi: "https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocy177/5369362?guestAccessKey=5e6a6410-de21-40c8-a620-bea85ad95b1b"
+      image: "/assets/paper-fig/2019trans.png"
+      links:
+          arxiv: "https://arxiv.org/abs/1812.10609"
+          data: "https://doi.org/10.6084/m9.figshare.11338880.v1"
+          code: "https://github.com/qke/trans-sci"
+
+- year: 2018
+  papers:
+    - title: "Comparing scientific and technological impact of biomedical research"
+      authors: "<b>Q Ke</b>"
+      venue: "Journal of Informetrics"
+      volume: "12"
+      pages: "706-717"
+      doi: "https://doi.org/10.1016/j.joi.2018.06.010"
+      image: "/assets/paper-fig/2018techimpact.png"
+      links:
+          arxiv: "https://arxiv.org/abs/1804.04105"
+
+- year: 2017
+  papers:
+    - title: "Service providers of the sharing economy: Who joins and who benefits?"
+      authors: "<b>Q Ke</b>"
+      venue: "Proceedings of the ACM on Human-Computer Interaction"
+      volume: "1"
+      pages: "57"
+      doi: "https://doi.org/10.1145/3134692"
+      image: "/assets/paper-fig/2017providerentire.png"
+      links:
+        arxiv: "https://arxiv.org/abs/1709.07580"
+        honorable_mention: "https://medium.com/acm-cscw/announcing-the-best-of-cscw-2018-b98cb91e0f61"
+
+    - title: "Sharing means renting?: An entire-marketplace analysis of Airbnb"
+      authors: "<b>Q Ke</b>"
+      venue: "Proceedings of the 2017 ACM on Web Science Conference"
+      pages: "131-139"
+      doi: "https://doi.org/10.1145/3091478.3091504"
+      image: "/assets/paper-fig/2017airbnb.png"
+      links:
+        arxiv: "http://arxiv.org/abs/1701.01645"
+
+    - title: "A systematic identification and analysis of scientists on Twitter"
+      authors: "<b>Q Ke</b>, YY Ahn, CR Sugimoto"
+      venue: "PLoS ONE"
+      volume: "12"
+      pages: "e0175368"
+      doi: "https://doi.org/10.1371/journal.pone.0175368"
+      image: "/assets/paper-fig/2017scientist.png"
+      links:
+        arxiv: "https://arxiv.org/abs/1608.06229"
+        data: "/projects/twitter-science/twitter-scientist.html"
+        nature_news: "http://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873"
+        lse: "http://blogs.lse.ac.uk/impactofsocialsciences/2017/07/12/scientific-birds-of-a-feather-flock-together-science-communication-on-social-media-rarely-happens-across-or-beyond-disciplinary-boundaries/"
+
+- year: 2015
+  papers:
+    - title: "Defining and identifying Sleeping Beauties in science"
+      authors: "<b>Q Ke</b>, E Ferrara, F Radicchi, A Flammini"
+      venue: "PNAS"
+      volume: "112"
+      pages: "7426-7431"
+      doi: "https://doi.org/10.1073/pnas.1424329112"
+      image: "/assets/paper-fig/2015beauty.jpg"
+      links:
+        arxiv: "https://arxiv.org/abs/1505.06454"
+        data: "https://journals.aps.org/datasets"
+        project: "/projects/beauty/beauty.html"
+
+- year: 2014
+  papers:
+    - title: "Tie strength distribution in scientific collaboration networks"
+      authors: "<b>Q Ke</b>, YY Ah"
+      venue: "Physical Review E"
+      volume: "90"
+      pages: "032804"
+      doi: "https://doi.org/10.1103/PhysRevE.90.032804"
+      image: "/assets/paper-fig/2014tie.png"
+      links:
+        arxiv: "https://arxiv.org/abs/1401.5027"
+        data: "https://journals.aps.org/datasets"
+        code: "https://github.com/qke/sci-colla"
